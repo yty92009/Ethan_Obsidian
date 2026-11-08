@@ -1,0 +1,270 @@
+---
+title: "王自如对话帆软CEO：为什么很多企业花了大价钱做数字化，最后还是沦为摆设？"
+source: "https://mp.weixin.qq.com/s/ij155XFbfUcoSA_xZA9n2w"
+author:
+  - "[[小帆]]"
+published:
+created: 2026-11-09
+description: "花几百万上线ERP，花上千万建设数据平台，再投入预算搭建经营分析看板。项目验收时，系统功能齐全、数据大屏漂亮、汇报材料也很完整。"
+tags:
+  - "clippings"
+---
+小帆 Data实战笔记 *2026年11月6日 17:06*
+
+花几百万上线ERP，花上千万建设数据平台，再投入预算搭建经营分析看板。项目验收时，系统功能齐全、数据大屏漂亮、汇报材料也很完整。
+
+但半年之后呢？
+
+员工还是习惯用Excel统计数据，部门之间依然靠微信群传递信息，管理层想看一份经营分析报告，还得临时找人导数据、做表格。
+
+原本寄予厚望的数字化系统，逐渐变成了领导参观时展示、项目验收时汇报的工具。
+
+为什么企业投入了大量资金，却没有真正实现数字化？
+
+最近，王自如与帆软CEO陈炎、FDE专家沈涛在无锡广电播客空间的一场访谈，谈到了企业数字化转型中的一些深层问题。
+
+结合这些讨论来看，很多企业数字化项目之所以沦为摆设，并不是因为缺少技术和软件，而是从一开始就没有解决好业务、数据和组织之间的关系。
+
+尤其是下面这四个问题。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquSRiaNL9brVTlngGnsmkNOJE9s2jxGiapcucAQRFfp20KF4yHSvI0xDNUGJsDse5G3J8hic5X64ER5NVJDAKSKcyR3hRGEYJp0bMQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+
+**01 把买系统当成数字化，项目上线了，业务却没有改变  
+**
+
+这是很多企业数字化转型的第一个误区。
+
+企业一提数字化，首先想到的往往是采购软件：财务上ERP，生产上MES，办公上OA，经营分析上BI。
+
+系统越买越多，预算越花越大，但真正落到业务中，却发现很多问题依然存在。
+
+例如，企业上线了ERP，各部门依然需要导出Excel进行二次加工；上线了经营分析平台，管理层依然需要财务人员手工整理数据；上线了生产管理系统，计划员还是习惯用Excel调整排产。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquQQjvCaT1s3wbw5aCqIzFY8zOLuXdoNUGbWjHwibMEPxAY53PTfXF6RcH0h9KGvVuVwgRQIu0EzMoEIJF3EU7IM64M8nywlENM0/640?wx_fmt=png&from=appmsg#imgIndex=1)
+
+为什么？
+
+因为企业关注的是系统有没有上线，却没有真正想清楚：这个系统究竟要改变什么业务？
+
+王自如在访谈中提到，
+
+企业数字化转型不能只关注技术建设，还要回到真实的业务场景。
+
+例如，生产排产并不是简单地把一张Excel计划表搬到系统里，背后涉及设备状态、订单优先级、物料供应和生产规则。如果这些业务逻辑没有梳理清楚，即使换了一套软件，也只是把原来的操作方式搬到了线上。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquQJETYjZYxDkP0oicd1jt1ibUicGpKkYgESicxnBr3bxC4VKiboXm1dCX5g6O8TtjBGIjAFcEGKXGDiaYqcicMzIf9UaSUX6a7s2jaRAY/640?wx_fmt=png&from=appmsg#imgIndex=5)
+
+所以，数字化项目立项之前，企业应该先回答三个问题：
+
+- 当前业务最需要解决的问题是什么？
+- 哪些业务环节需要通过数字化改变？
+- 项目上线后，如何衡量实际效果？
+
+**数字化不是买一套软件，而是借助技术改变业务的运行方式。**
+
+**02 只把流程搬到线上，却没有真正打通业务  
+**
+
+第二个问题，是企业虽然上线了很多系统，但业务流程依然是割裂的。
+
+销售用CRM，采购用ERP，生产用MES，仓库用WMS。每个部门都有自己的系统，但部门之间的信息传递依然依赖人工。
+
+例如，一笔客户订单进入销售系统之后，需要经过库存核查、生产排期、采购备料、生产执行和发货结算。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquSzd3iazyfI9zIPjwawSRSjmMCRkCbHFGPNsC4iaQdRI1jRJ2JQIO7qosI5FqzPDZcS7hBn7HTtX6iaiaFyowy3ziaXMaicq6VSlEpno/640?wx_fmt=png&from=appmsg#imgIndex=6)
+
+理论上，这应该是一条完整的业务链路。
+
+但现实中，销售人员可能需要把订单信息重新发给生产部门，生产计划员再把数据复制到Excel，采购部门还要重新核对物料需求。
+
+系统虽然不少，重复录入、人工传递和信息断点却一个都没有少。
+
+王自如在访谈中对此有一个很直接的提醒：
+
+“只要我的审批流在线上了，我就已经完成了业务的数字化，其实并不完全是这样。”
+
+很多企业的问题就在这里：审批在线上，真正的业务执行却在线下。
+
+更值得注意的是，企业不仅需要记录业务最终结果，还要记录业务过程。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquT15aXBWCozA9OPyh5B3IT8ehrIhd1IraibOzvFUwdgfawVbiaXaSHYbvv4VgfO2iaoRaTD4HCQYWuyUEx4TtCgX5icqCCe5F1ibIpk/640?wx_fmt=png&from=appmsg#imgIndex=10)
+
+王自如在谈到制造业计划排产时，特别强调：
+
+“每一次变更，上一个版本都是宝贵的过程数据。其实是应该被保留、被记录、被追溯的。”
+
+例如，生产计划因为设备停机、客户插单而发生调整，如果企业只保留最后下发的计划，却没有记录每次调整的原因和影响，那么这些业务过程就会丢失。
+
+因此，企业不能只满足于把审批流程搬到线上，还要让采购、生产、销售、仓储等关键业务形成连续的数据链路。
+
+**03 数据系统建了不少，却始终没有形成统一的数据体系  
+**
+
+这是很多企业数字化项目投入巨大，却始终无法发挥价值的深层原因。
+
+不少企业已经建设了数据仓库、数据中台、BI平台，也积累了大量报表和经营数据。
+
+但真正需要跨部门分析时，问题依然很多。
+
+例如，管理层想知道本季度利润为什么下降：
+
+财务说是成本上升，销售说是产品结构变化，生产说是效率下降，采购又认为是原材料价格上涨。
+
+每个部门都有自己的数据，每个人的解释似乎都有道理，但企业很难快速形成统一结论。
+
+原因就在于，数据虽然被收集起来了，却没有真正治理好。
+
+同一个指标，不同部门可能有不同口径；同一笔业务，在不同系统中可能对应不同编号；不同系统的数据之间也缺少有效关联。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquSXjnwp69icZ3SN8ibCiaLTBYUXLSbdfRAAX5Jv9v9b1ys29gFrCjLQcichaM8RnpcwfVtZNcbM3fmGqFYAicjNEibicTQogUia2hyg76Q/640?wx_fmt=png&from=appmsg#imgIndex=14)
+
+王自如在访谈中分享过自己推动企业指标管理的经历。
+
+当时，他组织各部门制定指标管理白皮书，统一企业内部的指标定义。
+
+谈到指标字典的作用时，他说：
+
+“这个字典的价值是什么呢？不是真的大家每天做业务的时候翻这个字典，而是说当大家吵架的时候，靠这个字典来解决。”
+
+这句话很有代表性。
+
+企业的数据治理，看起来是在统一字段、指标和计算口径，实际上是在统一不同部门对业务的理解。
+
+因此，企业需要把数据治理真正落到业务中：
+
+- 数据集成： 打通ERP、MES、CRM、WMS等系统，解决数据孤岛问题。
+- **指标治理：** 统一收入、成本、利润、库存等核心指标口径。
+- **数据建模：** 建立客户、订单、产品、物料等业务对象之间的关联。
+- **数据质量：** 保证数据准确、完整、连续，并且能够追溯来源。
+
+而数据治理之后，还有一个更值得关注的问题：这些数据如何真正被业务人员使用？
+
+过去，企业主要通过固定报表和BI看板消费数据。管理层看经营报表，业务部门看指标看板，临时出现分析需求，还需要找数据人员重新取数、制作报表。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquQxQInv6ydoHkrMFiafflqYudlHiaW0v6qaurFJSkicx6mV5S2TCvico5ia2ABJyEU2cPP05mvIHibY4zdvIKSHTeI00ydibg0CXDKVqA/640?wx_fmt=png&from=appmsg#imgIndex=18)
+
+但在AI时代，数据消费方式正在发生变化。
+
+沈涛在访谈中提出，未来企业的数据消费不应该局限于报表和BI看板，还可以进一步发展为HTML报告、千人千面的个性化呈现，甚至直接通过自然语言问数。
+
+他认为，这会让数据进一步渗透到企业业务的各个环节。
+
+这也是帆软AI产品布局的重要出发点。
+
+在访谈中，沈涛介绍，帆软正在围绕云上、云下两条产品线推进AI布局。
+
+## 云下体系：以Dora为中心，重构本地化产品能力。
+
+面向大型企业，帆软计划以Dora作为本地化Data Agent构建平台，用户既可以手动配置智能体，也可以通过对话生成。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquRKH756ZDwh224liawScXNiaVSiclvZwYQwJnomOickW6ib7SGauJUaLbeInZMWkfhN0n3hfAkJic6kkODZrQRL0TYr7X8zSFb7qYRFM/640?wx_fmt=png&from=appmsg#imgIndex=19)
+
+围绕Dora，FineDataLink负责连接不同业务系统，通过数据集成和数仓技术整合分散的数据，为智能体提供数据；FineBI则承担数据承载底座的角色，通过指标中心、数据管理、数据源管理和语义层建设，沉淀企业已有的指标体系和业务规则。
+
+沈涛还特别提到，帆软正在升级FineBI的指标中心至2.0，让过去服务于传统BI分析的数据治理能力，进一步适应AI时代的需求。
+
+**云上体系：面向中小微企业，强调标准化和快速见效。**
+
+对于没有太多IT资源、难以投入大量成本建设数据治理体系的中小微企业，帆软采用的是“以用促治”的思路。
+
+沈涛以FineBI Cloud的电商客户为例介绍，通过直接连接电商平台的标准API，企业接入账号后，就可以较快获得经营分析报告和归因分析结果。访谈中，他提到，一些标准化场景下，客户在一两天内就能看到初步分析结果。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquQoYmBLNOjiaAj77IrUt7unwkAwV0saPbHC9c1HRczWuiciaE6vxCsxU6TggaFfOu2oAdSwwGBXG7y452I8kQxZiaaU6pC3qAuvoeE/640?wx_fmt=png&from=appmsg#imgIndex=20)
+
+两条产品线面向不同规模和基础的企业，但背后的思路是一致的：让AI带来新的数据消费方式，同时放大企业过去积累的数据治理和数据再生产能力。
+
+这也是沈涛在访谈中反复强调的方向：
+
+“我们一个根本思想就是围绕新的数据消费形式，再把我们在上个时代沉淀出来的数据再生产、数据治理的能力给它进一步的放大。”
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquSgVjc1TxAn5JAiaTZK5OvTpaWOLzxt772nF4vO2whPE0saibP8YNkz0hK5ibKOlYxfs6kMAhbTKRDd1HQcYT0AWzjIMXYmy7KTfI/640?wx_fmt=png&from=appmsg#imgIndex=24)
+
+从FineDataLink的数据连接，到FineBI的数据管理和指标体系，再到Dora的企业级智能体应用，帆软并不是简单地在传统BI上增加一个AI聊天入口，而是在尝试重新组织企业数据从治理到消费的完整链路。
+
+值得注意的是，Dora与普通个人Agent也有明显区别。
+
+王自如在访谈中指出，个人Agent主要解决日常办公效率问题，而企业级Data Agent背后连接的是企业庞大的数据库，需要考虑数据权限、安全性和结果准确性。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquSvVfdXQWIw1nrCPCq9PKRv7jqcNDmaq6ZynrpyRrV84fYTAqx5E1SUUwahpNUqzEick4IvQMlEQmBibB9hMCJrqjDXX2UCXh2Ag/640?wx_fmt=png&from=appmsg#imgIndex=25)
+
+他有一句话说得很直接：
+
+“但是企业的数据Agent如果mess up整个公司的数据库，这是个巨大的事故。”
+
+因此，企业级Agent不能只追求能回答问题，还必须建立在可靠的数据模型、业务规则、权限管理和校验机制之上。
+
+**数字化建设不能只让数据停留在数据库和报表里，更重要的是让数据真正进入业务分析和经营决策。**
+
+**04 系统上线就算项目结束，没有人真正负责后续运营  
+**
+
+还有一个经常被忽略的问题：数字化项目的建设责任很明确，但使用责任却不清楚。
+
+项目立项时，IT部门负责技术选型，业务部门负责提出需求，供应商负责实施交付，管理层负责审批预算。
+
+但系统上线之后呢？
+
+谁负责持续优化？谁负责推动业务部门使用？谁负责检查数据质量？发现问题之后，又由谁协调解决？
+
+这些问题往往没有明确答案。
+
+沈涛在访谈中分享过一家制造业企业的经营分析实践。
+
+这家企业真正困难的不是把数据整理出来，而是经营分析会结束之后，谁来跟踪问题、推动整改，以及建立相应的考核机制。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquQ8doI9ibfaC6RRPXF1icXKYWCSBGJVLDevORB4ZiaWA6y5DFm0MiamoBrdicBPQbggKXlGbNI1EDj4JNrjUiaXt9MQZXV1sk2SmrJI4/640?wx_fmt=png&from=appmsg#imgIndex=29)
+
+所以，企业需要建立的不只是项目建设机制，还包括持续运营机制：
+
+- 明确每套系统的业务负责人和管理责任；
+- 建立数据质量检查和指标维护机制；
+- 定期收集业务部门的使用反馈；
+- 将系统使用与经营分析、业务改善结合起来；
+- 对发现的问题明确责任人、整改措施和完成时间。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquQXcPNiaUhD2ibf0TcGic59ia0jmQafMXUo1g7ib3S3VvOCEDkTntrLVv8fecETj9m8eibAKxDCVVqMTTnViasWEySAQbaf9mN2H9NicF0/640?wx_fmt=png&from=appmsg#imgIndex=30)
+
+**数字化项目不是验收通过就结束了，真正的考验是上线之后还有多少人在用、用得怎么样、业务有没有因此发生改变。**
+
+**05 数字化转型，真正应该从哪里开始？  
+**
+
+说到底，企业数字化转型沦为摆设，往往不是某一套软件的问题，而是业务、数据和组织没有形成闭环。
+
+如果企业想避免重复投入，可以从三个方向重新审视自己的数字化建设。
+
+## 第一，从业务问题出发，而不是从技术采购出发。
+
+不要一开始就想着建设数据中台、部署大模型，而是先找到一个具体的业务痛点。围绕库存、订单交付、成本和利润等问题选择系统和工具，数字化建设才有明确的价值目标。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquSWsx5RSY1xabyMHh0rOhwRmt8uQ2ic6OQ4lXSVZliaWG0KS4uj2swCkFByqkI6VvWYFnl9mRIkzP4vONb3JTzz53OgK3ib7oSqcI/640?wx_fmt=png&from=appmsg#imgIndex=31)
+
+## 第二，从数据连接和治理入手，而不是只追求系统数量。
+
+企业不一定需要再采购一套全新的平台，而是应该先盘点已有系统和数据资产，打通数据、统一指标，让过去分散在不同部门的数据真正发挥作用。
+
+## 第三，让数字化从项目建设变成持续运营。
+
+明确业务负责人、数据负责人和项目管理责任，将系统使用情况与实际经营改善联系起来。
+
+从访谈透露的产品规划来看，帆软也在探索更加适应不同企业基础的交付模式。
+
+对于有成熟数据体系、业务复杂度较高的大型企业，可以通过Dora及相关本地化产品建设企业级Data Agent；对于IT资源有限的中小微企业，则可以通过标准化云产品，从经营分析和归因分析等具体场景切入。
+
+沈涛在访谈中还介绍了帆软的三种服务思路：以标准化产品为主的自助建设、面向复杂业务的组合解决方案，以及与头部企业共同打磨创新业务模式。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquRyd4EzpA2r8qvbPdmFnb9YkibaUicydEyXongU3vdqNllSRcHoLP0ECZ7K6QqO0ddp4udz1WicWWOMiaj4PoDyI7xZyib7Ia43ic5u8/640?wx_fmt=png&from=appmsg#imgIndex=32)
+
+其核心不是让供应商替企业包办所有工作，而是通过产品和服务帮助企业逐步建立自己的数字化能力。
+
+这也与帆软在AI时代的产品布局形成了呼应：既要让已有数据资产继续发挥价值，也要让企业能够以更低的门槛、更适合自己的方式使用AI。
+
+当然，AI不是弥补数字化建设缺陷的万能工具。企业仍然需要先有可信的数据、明确的业务场景和必要的管理机制。
+
+回头看，为什么有些企业花了几百万、几千万做数字化，最后却沦为摆设？
+
+因为它们可能只完成了软件采购，没有改变业务流程；只完成了数据采集，没有做好数据治理；只完成了项目交付，没有建立持续运营机制。
+
+**数字化转型真正的终点，从来不是系统上线，而是让业务更高效、让数据更可信、让管理决策更有依据。**
+
+企业花钱买来的不应该只是一套套软件，而应该是一种能够持续改善经营的能力。

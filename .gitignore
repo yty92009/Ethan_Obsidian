@@ -1,0 +1,11 @@
+# 课程视频约1GB，只随目录移动、不被修改，不纳入版本控制以控制仓库体积
+*.mp4
+
+# Obsidian 运行时生成的临时/索引文件
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# 教程源码下载残留与训练数据集
+.source-download-incomplete/
+*.jsonl

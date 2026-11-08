@@ -1,0 +1,51 @@
+---
+title: "经营分析，别只盯利润：真正的财务BP都在拆这 4 件事"
+source: "https://mp.weixin.qq.com/s/f-rvbBUE5gShlS6z6gwj4g"
+author:
+  - "[[数分讲解]]"
+published:
+created: 2026-07-25
+description: "经营分析真正要做的从来不是把报表数字填好就完事了，而是要把收入、成本、利润和业务动作串起来，找到变化背后的原因形成可执行的管理建议。本篇内容也是通过知识图卡的形式把 经营分析：收入、成本、利润、业财一体化 拆解成一套完整框架学习。"
+tags:
+  - "clippings"
+---
+数分讲解 数分讲解 *2026年6月15日 15:31*
+
+还记得我第一次做经营分析的时候，和大多数新手一样第一反应是打开利润表，看收入、成本、费用、利润分别变了多少。
+
+这时候的我刚学完各种数据软件工具，还停留在最基础的数据层面，后面深入学习后发现各种问题迎面而来：
+
+看到收入增长了是要继续看销量拉动，还是涨价拉动？是优质客户增长，还是靠低价和折扣冲出来的收入？
+
+当成本下降了，真的是管理变好了吗？是不是来源效率的改善，还是只投入延后、质量下降，甚至是短期压缩了必要成本。
+
+当利润变高也不代表经营一定健康，还要看利润来自哪里、能不能持续、能不能转化成现金。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/bSaaQUAKoDaia5iaiaiaiaBMd7qiaASvx2YDn46aJicvHRibPvyErQxtibWqOcNPOhdTG9pp4kqPAzzwgFQH8Yuw5qaQDnvxGjW0A9tZrpeIkq7VakEY/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+
+总结下来经营分析真正要做的不是把报表数字填好就完事了，而是要把收入、成本、利润和业务动作串起来，找到变化背后的原因形成可执行的管理建议。
+
+本篇内容也是通过知识图卡的形式把 经营分析：收入、成本、利润、业财一体化 拆解成一套完整框架学习。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/bSaaQUAKoDanpqHb6udrYZHpuhiasIDTRickTXYqN7t0n16rQeLWuFCE6q4zf2PxUFnicgxR8qWEVCxJ904ForqIn8o8aMUSI3sCvgQVHCRt2k/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1) ![图片](https://mmbiz.qpic.cn/mmbiz_png/bSaaQUAKoDYegKickqRdg7FGxWb8y8TKI9KWEQR5cJg58rJcJ6Ik2G9iaj925dKVOdcVXFW5KkdAJzJ3IsKsSG8b2ByVbJpITQyiarWxj3lpKI/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3) ![图片](https://mmbiz.qpic.cn/mmbiz_png/bSaaQUAKoDZAf8HNHTu2Fh9aFSmLkVo0hIafxMphsficbDS2cCGQibSEiaq0z78Ld7YSqI25sibfibg2bPbqSuiaF5bUN4481TRmHzBPb3mctJibWo/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5) ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/bSaaQUAKoDbfVBr8r59Fe8Fia1oj6yxw6iaXq3xffSDKgLZ0yLXsAxqhATH25sAoPQJNqKS49Md7dTqeF19lZcextYAvsfBpfrQcKNJN7cDR8/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
+
+总结下来其实一份好的经营分析就是要能回答这三个问题：
+
+- 经营发生了什么？
+- 为什么会发生？
+- 接下来应该怎么做？
+
+这也是我们财务人真正转型做经营分析、财务BP的关键差距。
+
+如果现在的你也还是在基础财务岗做核算、报表、费用统计、预算表等基础重复的工作，想要进一步提升自己的话，那么往财务分析、经营分析或财务BP方向发展是最好的选择。
+
+而转型我建议你不要只停留在财务口径本身，因为财务BP需要的不只是会看报表，还要能理解业务流程、拆解经营指标、搭建分析看板，并把数字翻译成业务能听懂的判断。
+
+- Excel 是基础，可以做最基础的整理和分析。
+- BI 可以快速把经营指标做成数据可视化看板、快速发现问题。
+- SQL 能直接从业务系统里取数，快速做分析。
+- Python 可以进一步处理复杂数据、建立模型、做自动化报表和批量分析。
+
+这些软件工具也是推荐每一位财务人转型必须要要掌握2-3款，有了这些数据分析软件的加持，也能更方便我们去深入进阶发展。
+
+经营分析 · 目录

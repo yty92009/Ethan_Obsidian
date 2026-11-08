@@ -1,0 +1,42 @@
+---
+title: "PowerBI隐藏列的正确打开方式，完美无痕"
+source: "https://mp.weixin.qq.com/s/JrRNBdOJQuU6yEFEOzSlDw"
+author:
+  - "[[轻松]]"
+published:
+created: 2026-07-20
+description: "入门\x26lt;100例\x26gt;, 卡点答疑! 加v: pbizijixue"
+tags:
+  - "clippings"
+---
+轻松 PowerBI自己学 *2026年6月18日 23:18*
+
+在PowerBI的表或矩阵视觉对象里，不少人会用“把列宽拖到最窄”的方式隐藏列，比如<100例>里的中国式报表。如果列标题背景是深色，这种“伪隐藏”会露出杂乱的框线，视觉效果很不整洁。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/EEkRHXtHoLKELlD1vficccatYzLDabnPVDDzCEO3Cff6CFSI6O6u2poeZ0hoVRPBhjaicsxr2aTowwvNSo85hWoEbxZmbXATdezvj1DA0VACs/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
+
+解决方案
+
+在2026年6月的PowerBI版本中，无需再靠拖拽压缩列宽，支持在格式里设置。进入可视化窗格的「视觉对象格式」面板，找到「布局」分类下的「列宽」选项，开启‌自定义宽度‌开关（双层表头场景可额外打开「更精细」开关），就能按列精准设置像素级宽度，将需要隐藏的列宽度改为0，就能真正实现无残留隐藏，完美无痕。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/EEkRHXtHoLKtyxToVXZdXX0m4zyVwrAwgqpYSEwxQLVVNj04v99FOQo4LHFasNCNyySgiaNAaTgamAo9AztxwOL55gdksuS3kdk4WKB30XqQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+
+设置后的效果如下：
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/EEkRHXtHoLKUlbqKYwUO2dmgLIWNibLiaVq520iaa11jPe3eZuicZRUguJ16MCyAM0CiaGlJOhRrLMBIqXk16xiajia80ZMiceJBZepWBu9qCBP0qrE/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+
+坑点
+
+1\. 不要把视觉对象内不同的度量值改成同样的名称，会引发字段识别混乱，影响宽度设置。
+
+2\. 2026年6月的版本中，自动调整大小的行为选「固定宽度」时，页面切换后行标题字段的宽度会重置为默认值；选「适应内容」即可规避这个Bug。
+
+---
+
+卡住很久找不到答案的时候，欢迎加入 PowerBI自己学 知识星球，这里提供公众号源文件、入门<100例>，卡点答疑。
+
+![Image](https://mmbiz.qpic.cn/mmbiz_png/M2thBh8aicdBmseTogEvZOibqy4JlIGqNjjWNNFQhRwBhOau9YHUSklnOe2Lg4aYN2nYUx0M1iayHibib1p6umhpPxw/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1&tp=webp#imgIndex=6)
+
+PBI持续进阶 · 目录
+
+作者提示: 个人观点，仅供参考

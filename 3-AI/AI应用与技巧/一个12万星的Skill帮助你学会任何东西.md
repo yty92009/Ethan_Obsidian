@@ -1,0 +1,109 @@
+---
+title: "一个12万星的Skill帮助你学会任何东西"
+source: "https://mp.weixin.qq.com/s/GgMU8RrJBTuWnqy8K1kfxQ"
+author:
+  - "[[Shire AI实验室]]"
+published:
+created: 2026-07-20
+description: "一个12万⭐的Skill帮助你学会任何东西"
+tags:
+  - "clippings"
+---
+Shire AI实验室 Shire AI实验室 *2026年6月10日 08:00*
+
+GitHub上有个仓库，122000颗星，是全世界最受欢迎的AI Agent技能集合。作者昨天发了条推文，说新做了一个Skill，是「他写过的最好的一个」。
+
+先说仓库地址：https://github.com/mattpocock/skills
+
+122000颗星，最好的一个。你猜是什么？你敢信这玩意居然是教人学东西的？
+
+不是什么能帮你写整个操作系统的超级技能，也不是什么能自动生成App的黑科技。这个Skill做的事情说出来你可能觉得有点朴素，它让AI变成你的私人老师，而且是一个能记住你学到哪了的老师。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0Wkmjl1rzwfA1iciaVibf2xhrZDVUX3QNrzGia7BgUroNiaiapyicYNuHeXfkpVzTfCnZnZ2JIjkibsR6QhJIjczNyegGKDwIQKiau7wROKcsre6KJBo/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+
+这个仓库叫Skills，全名Skills for Real Engineers。作者Matt Pocock，TypeScript社区的老熟人，如果你写过TypeScript大概率用过他的Total TypeScript课程。这哥们在AI编程这块也是深度玩家，他的Skills仓库里十几个Skill全是他自己日常用的，做真工程用的，不是那种demo级别的玩具。
+
+他在README里写了一段话我觉得挺有意思的，大意是现在市面上那些AI开发框架，什么GSD啊BMAD啊Spec-Kit啊，都试图帮你掌控整个开发流程。但这样做的问题是，它们把你的控制权拿走了，出了bug你也搞不清楚到底哪里出了问题。所以他的Skills走了一条完全相反的路，小巧，可组合，随便改造。每个Skill独立存在，互相配合，兼容任何模型。
+
+说真的，这个理念和我不谋而合。我自己也一直在用各种AI开发工具，最大的感受就是，最怕「大而全」。那种一上来就号称能帮你做所有事情的东西，用起来往往处处碰壁。反而是像Matt这种只做好一件事的小Skill，组合起来之后威力惊人。
+
+这个仓库的122000颗星，就是这种理念最好的证明。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0Wkmjl1rzwcV4sJkvGtXSofRPzicyMGIiankq3mec4Osqw70ygiboY9vicQAj6H08hQGGV2DepwspY4nrzG7thMpCYhkFXiazOxD6j2lBrLKFPso/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+
+回到Teach这个Skill。它的定位跟仓库里其他技能完全不同。其他Skill是帮你干活的，grill-me让AI疯狂追问你方案里的漏洞直到你自己都说不下去了，caveman帮你把对话压缩到极致省75%的token，diagnose给你一个结构化的debug流程。全是生产力工具。
+
+Teach不是。它是帮你学东西的。
+
+Matt发布的时候说了一句「Learn anything, from rubik's cube to vocal harmonies to software fundamentals」。魔方，声乐和声，软件基础。一行命令安装， `npx skills add mattpocock/skills --skill teach` ，然后就开始了。
+
+说实话我刚看到这个描述的时候第一反应是，这玩意不就是个AI问答吗？问AI一个问题它给你讲，这谁不会啊。
+
+但我仔细看了源码之后，发现完全不是那么回事。
+
+Teach的核心设计理念是三个词，Knowledge，Skills，Wisdom。知识，技能，智慧。Matt认为学习这件事分三层，每一层的习得方式完全不同。
+
+第一层Knowledge，事实性知识。就是你能从书上、文章里学到的那些东西。比如你在学吉他，Knowledge就是和弦叫什么名字、指法是什么样的、为什么这个和弦听起来是悲伤的。Teach会从高质量的可信资源里提取知识，然后生成一个带交互的HTML解释器，每一句话都有引用来源，不是AI凭记忆瞎编的。
+
+第二层Skills，动手能力。你能不能按出F和弦？能不能在C和G之间流畅切换？这些东西光看文章学不会，必须动手练。Teach会设计交互式的练习，让你在浏览器里操作，然后立刻给你反馈。对了就是对了，错了告诉你哪里错了。反馈循环越紧，学习效果越好。
+
+第三层Wisdom，真实场景下的判断力。你什么时候该用F和弦而不是Fmaj7？什么情绪的歌曲适合什么样的和弦进行？这种东西教不了。至少AI教不了。Teach会老老实实告诉你，这块我帮不了你，你得去真实的社区里跟真人碰。它会帮你找到相关的论坛、社群、甚至线下兴趣小组，让你去真实世界里摔打。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/0Wkmjl1rzweunthU5RLKjk2VFhicO6UKFjsRRD8wxZIV7nKrc8TNxv66tBP72UBrlghicSQPUdCJS4jQnfKkdFib5ibcVGk5rEOf09EUnlnOxo8/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
+
+这三层分开来看都不算新鲜。但你把它们放在一起看就会发现，绝大多数AI学习工具只停留在第一层。你问它一个问题，它给你一堆信息，完事了。至于你消化了没有、能不能用上、判断力有没有提升，它不关心。
+
+Teach至少把第二层也接进来了。而且对于第三层，它很诚实地说「我教不了」。这种诚实反而让我更信任它。因为它没有假装自己无所不能。
+
+好，三层理念讲完了。但真正让我觉得这个Skill牛逼的，不是理念本身，是它怎么用文件系统来实现这些理念的。
+
+Teach的工作方式是这样的。你输入/teach然后告诉它你想学什么，它会在你当前的目录下建一套文件。MISSION.md，记录你为什么想学这个东西，你的真实动机是什么。RESOURCES.md，收集这个领域里可信的学习资源。GLOSSARY.md，一个术语表，确保AI和你说的每一个词都是同一个意思。然后有两个目录，lessons目录放每节课的HTML解释器，learning-records目录记录你已经学会了什么。
+
+你发现了吗？这其实是一个状态机。
+
+MISSION.md决定教什么，为什么教。learning-records决定下一步教什么，因为你已经会了什么，所以应该教什么新的。lessons是单次学习单元，一次只讲一个知识点。reference是压缩后的长期记忆，把你学过的东西压成速查手册方便以后翻看。
+
+每上完一节课，系统更新你的learning-records。下次你再调用/teach，它读你的记录，判断你现在的水平，决定接下来的内容难度和方向。
+
+这个设计最精妙的地方在于，它解决了AI学习最大的痛点，记忆。
+
+你每次跟AI对话，它都是从零开始的。它不知道你是小白还是专家，不知道你上次学到哪里，不知道你哪些概念已经滚瓜烂熟哪些还是一头雾水。Teach把所有这些状态都存成了文件。下次你打开/teach，AI读一下文件就知道你是谁、学了什么、该教什么了。
+
+不是什么黑科技。就是把学习状态序列化到文件系统里。但就是这步操作，把AI辅助学习从「一次性消费」变成了「持续积累」。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0Wkmjl1rzwdN7RBQicRqj1g4icQsrDNwNZ3iciavlNo7cq8DtyVPQ7q3icMKNxfwXuJFjfiaVE411x5U9OO3biadtJLr665jMbxeLiaU73uf8HdGthA/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+
+顺着这个思路再聊聊。Teach背后的核心教育理论叫ZPD，Zone of Proximal Development，最近发展区。苏联心理学家维果茨基提出来的，大概一百年前了。
+
+这个概念坦率的讲就是你已经会的和你即将会的之间那个甜蜜区。好的教学应该刚好踩在这个区域里，太简单了你觉得无聊，太难了你直接放弃。每节课刚好够难，每步刚好够挑战，这就是ZPD的核心。
+
+传统课堂里一个老师对几十个学生，老师只能凭经验估算大部分人的ZPD在哪里。教得快的人吃不饱，教得慢的人跟不上。这也是为什么一对一家教效果好，因为家教能实时感知你的ZPD然后调整节奏。
+
+Teach用learning-records文件来让AI判断你的ZPD。你告诉它「这个概念我已经知道了」，它记下来，下次不再教这个。你觉得某个部分太难，它放慢速度给你更多练习。每一步都踩在你的甜蜜区上。
+
+维果茨基大概不会想到，他的理论在一百年后被一个TypeScript教育家用Markdown文件和AI实现了。虽然精度肯定比不上真人老师，但比盲目灌知识好太多了。而且它是免费的，随时在线的，不会因为你是初学者就不耐烦。
+
+我自己其实一直在想一个问题。AI时代的学习到底应该是什么样的？
+
+传统学习是线性的。你找一门课，跟着从头到尾学，学完就结束了。课程设计的时候不会考虑你是谁，不会记得你学到哪了，不会根据你的水平调整难度。你学得快它不会加速，学得慢它不会等你。
+
+Teach把这个流程彻底改了。你的学习动机被显式定义在MISSION.md里。你已经会了什么被记录在learning-records里。你每一步的难度根据你的ZPD来调整。这不是一门课程，这是一个私人学习系统。
+
+你可以把它想象成一个永远在那里的陪练。它可能没有真人老师的温度和直觉，但它不知疲倦，永远记得你上次学到了哪一步，永远知道接下来该教你什么。而且它可以同时教你魔方、声乐和编程，不冲突，因为每个主题有自己独立的状态空间。
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0Wkmjl1rzweZ3uXVkyDmu8mnvliaGems8HZibdibMfzHPODcoHjjSWsPMJDiasyQyHfycUFo5MdAMYPT0eWZtTUN2UOn20qtlKJ0W4aYQicf4iayc/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+
+Matt说他接下来要出一个视频详细展示Teach怎么用。我挺期待的。因为我觉得这个Skill代表的方向是对的，AI不只是帮你干活的工具，它也可以帮你成长。只是大部分人在忙着用AI提效的时候，忘了AI也可以是一个好老师。
+
+一个记得住你的老师。
+
+对了，他说什么都能学，从魔方到软件基础。我倒想试试让它教教我怎么写出让人想点开的标题。这大概是全世界最难教的技能了吧。。。
+
+以上，既然看到这里了，如果觉得不错，随手点个赞、在看、转发三连吧。
+
+谢谢你看我的文章，我们，下次再见。
+
+> / 作者：夏尔AI  
+> / 邮箱：435452239@qq.com
+
+**微信扫一扫赞赏作者**

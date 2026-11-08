@@ -1,0 +1,202 @@
+---
+title: "PowerBI中帕累托图的制作（一）"
+source: "https://zhuanlan.zhihu.com/p/149947990"
+author:
+  - "[[Hill的成长之路]]"
+published:
+created: 2026-10-30
+description: "帕累托法则又叫做帕累托定律、“二八效应”，在市场营销中通常解释为20%的产品占据了80%的销售额，剩余的80%的产品占据了20%的销售额。生成的图表称为帕累托图。 1 帕累托图的应用在实际业务中，使用帕累托图的场…"
+tags:
+  - "clippings"
+---
+[收录于 · PowerBI相关知识](https://www.zhihu.com/column/c_1258354228856438784)
+
+17 人赞同了该文章
+
+[帕累托法则](https://zhida.zhihu.com/search?content_id=121454198&content_type=Article&match_order=1&q=%E5%B8%95%E7%B4%AF%E6%89%98%E6%B3%95%E5%88%99&zhida_source=entity) 又叫做 [帕累托定律](https://zhida.zhihu.com/search?content_id=121454198&content_type=Article&match_order=1&q=%E5%B8%95%E7%B4%AF%E6%89%98%E5%AE%9A%E5%BE%8B&zhida_source=entity) 、“二八效应”，在市场营销中通常解释为20%的产品占据了80%的销售额，剩余的80%的产品占据了20%的销售额。生成的图表称为帕累托图。
+
+## 1 帕累托图的应用
+
+在实际业务中，使用帕累托图的场景是分析头部客户、头部产品。就拿产品来说，一家做到全省、全国业务的公司经营的产品往往会有成百上千种产品，由于人的精力有限，无法关注到所有的产品，所以就需要关注头部产品，此时就需要对公司经营的产品做 [帕累托分析](https://zhida.zhihu.com/search?content_id=121454198&content_type=Article&match_order=1&q=%E5%B8%95%E7%B4%AF%E6%89%98%E5%88%86%E6%9E%90&zhida_source=entity) ，生成帕累托图。
+
+## 2 Excel中帕累托图的制作
+
+Excel中帕累托图制作步骤如下：（以产品-销售额为例）
+
+### （1） 统计好每款产品的销售额。
+
+### （2） 选中销售额列，使用倒叙排列。
+
+### （3） 依次每行的销售额在总销售额中的占比。
+
+### （4） 计算累计占比。
+
+### （5） 将产品、销售额、累计占比三列生成组合图即可完成。
+
+因为Excel中制作 [帕累托图](https://zhida.zhihu.com/search?content_id=121454198&content_type=Article&match_order=7&q=%E5%B8%95%E7%B4%AF%E6%89%98%E5%9B%BE&zhida_source=entity) 比较简单，所以就不作为本文重点进行讲解。
+
+## 3 PowerBI中帕累托图的制作
+
+### 3.1 原始数据
+
+本文数据是从 [国家统计局](https://zhida.zhihu.com/search?content_id=121454198&content_type=Article&match_order=1&q=%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80&zhida_source=entity) 下载的2010年到2019年10年的各省GDP数据（ [数据获取](https://zhida.zhihu.com/search?content_id=121454198&content_type=Article&match_order=1&q=%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96&zhida_source=entity) 方法在上一篇文章中已经说明），进行简单的整理之后如图1-1所示。此数据就作为本文的原数据。
+
+![](https://pica.zhimg.com/v2-c80db306457681971d0de1456dffae9a_1440w.jpg)
+
+图1- 1
+
+### 3.2 统计各省累计10年GDP总和
+
+日常业务中，通常拿到的数据是一段时间的销售表，所以需要计算这段期间内产品的销售额总和。同理，原数据中GDP是10年间每年的GDP总和，所以要对每个省份进行GDP求和。
+
+使用的方法是 [SUMMARIZE函数](https://zhida.zhihu.com/search?content_id=121454198&content_type=Article&match_order=1&q=SUMMARIZE%E5%87%BD%E6%95%B0&zhida_source=entity) ，SUMMARIZE的语法和参数是SUMMARIZE(表，\[GroupBy\_ColumnName1\],…,\[名称1\],\[表达式1\],…)，其功能是在“表”中对“GroupBy\_ColumnName”按照“表达式”进行汇总，生成的是一个虚拟表。
+
+### 3.2.1 建立新表
+
+选择PowerBI左侧的“数据”，如图1-2所示。然后在选择“建模”中的“新表”，如图1-3所示。
+
+![](https://pic3.zhimg.com/v2-500304ec63ff2fa671117453fc4f88a6_1440w.jpg)
+
+图1- 2
+
+![](https://picx.zhimg.com/v2-63412e24881a0322ed8d91193789a8fb_1440w.jpg)
+
+图1- 3
+
+### 3.2.2 输入公式
+
+建立新表之后光标会移动到公式编辑栏中，如图1-4所示。
+
+![](https://picx.zhimg.com/v2-ee977e9b0114b750a8b00aa822a668ed_1440w.jpg)
+
+图1- 4
+
+此时在公式编辑栏中输入如图1-5的公式，点击回车即可生成新表，如图1-6所示。
+
+![](https://pica.zhimg.com/v2-28ddfa5c8abb32eac6a9eefdef5ea71e_1440w.jpg)
+
+图1- 5
+
+![](https://pic1.zhimg.com/v2-199d2002cd37821a9247e73120ab176e_1440w.jpg)
+
+图1- 6
+
+### 3.3 增加度量值“GDP总和”、“累计占比”
+
+GDP总和是在虚拟表“累计GDP”中统计“累计GDP（亿）”列的总和，操作方法是先将界面切换到“报表”页，然后选中“累计GDP”，点击右键，选择“新增度量值”，然后光标会移动到公式编辑栏里，输入如图1-7公式，点击回车即可。同时在“建模”中调整格式为加千分号的整数。
+
+![](https://pica.zhimg.com/v2-e390f4a27b9d97956bac351a90b55d0e_1440w.jpg)
+
+图1- 7
+
+计算“累计占比”是核心内容，逻辑比较简单，即在“累计GDP”表中逐行判断“累计GDP（亿）”是否大于等于当前值，如果将“是”的那一部分求和，然后除以“累计GDP”即可得到累计占比。具体公式如图1-8所示。同时在“建模”中调整格式为保留两位小数的百分比。
+
+![](https://pica.zhimg.com/v2-70d4dccd08f62c7ec2823ddabda5f47c_1440w.jpg)
+
+图1- 8
+
+提示：
+
+公式中的current\_total是当前行的“累计GDP（亿）”， ALL('累计GDP')表示选择整个表，然后根据后面的判断条件'累计GDP'\[累计GDP（亿）\]>=current\_total通过FILTER来逐行判断是否满足，如果满足，则用SUM进行求和，得到的就是累计求和值，最后的除以“GDP总和”就得到累计占比。
+
+### 3.4 创建初始图表
+
+在“可视化”中选择“折线和堆积柱形图”，将虚拟表“累计GDP”中“省”拖拽到“共享轴”，“累计GDP（亿）”拖拽到“列值”并选择“总和”，将度量值“累计占比”拖拽到“行值”中，如图1-9所示。生成的图表如图1-10所示。
+
+![](https://pic2.zhimg.com/v2-31edab3c67a47623100061803ee8e57f_1440w.jpg)
+
+图1- 9
+
+![](https://pic1.zhimg.com/v2-12e5c6116a2b10fd80639d0a97b4116c_1440w.jpg)
+
+图1- 10
+
+### 3.5 美化图表
+
+### 3.5.1 调整标题为“帕累托图”并居中，调整合适的字体大小，操作如图1-11所示。
+
+![](https://pic2.zhimg.com/v2-6fc70cfb7ccf2362299aad200a334819_1440w.jpg)
+
+图1- 11
+
+### 3.5.2 增加边框
+
+直接将边框打开即可，操作如图1-12所示。
+
+![](https://pic3.zhimg.com/v2-1fef79d95b4335ae10ced4a8557e9bdc_1440w.jpg)
+
+图1- 12
+
+### 3.5.3 增加数字标签
+
+将数据标签打开，操作如图1-13所示。
+
+![](https://pic1.zhimg.com/v2-445b43ac58f0b814d3ec741fe49e115c_1440w.jpg)
+
+图1- 13
+
+### 3.5.4 增加80%直线
+
+需要先创建一个度量值，公式如图1-14所示。并将度量值拖拽到“行值”里面，如图1-15所示。。
+
+![](https://pic4.zhimg.com/v2-f7f34bd2042cc52a83002d30755d3743_1440w.jpg)
+
+图1- 14
+
+![](https://picx.zhimg.com/v2-eaf44b3075a9197306a898c1aea3f1c7_1440w.jpg)
+
+图1- 15
+
+此时图表变化为图1-16所示。
+
+![](https://pic3.zhimg.com/v2-7537608f4de0207d0f3dd6da947e963c_1440w.jpg)
+
+图1- 16
+
+80%线上面也显示出来了数值，需要调整为不显示，操作方法是打开“数据标签”打开“自定义系列”，选择“80%”将“显示”关掉，如图1-17所示。
+
+![](https://pic1.zhimg.com/v2-4ab71392ecf03bc2a66c2af4225ccf78_1440w.jpg)
+
+图1- 17
+
+3.5.5 在“累计占比”线上增加点
+
+操作方法是在“形状”中将“自定义系列”中打开，选择“累计占比”，将“显示标记”打开，如图1-18所示。
+
+![](https://pic4.zhimg.com/v2-57eca26ebb62432fd8d44bf80c8e4135_1440w.jpg)
+
+图1- 18
+
+### 3.6 成品图形
+
+完成了上述操作之后，成品图已经完成，如图1-19所示。
+
+![](https://pica.zhimg.com/v2-ff3bb0877bc6a0e0b7cba22244ff8296_1440w.jpg)
+
+图1- 19
+
+从图中可以看出，到江西省时累计占比已经达到了78.66%，之后的内蒙古已经超过了80%。
+
+## 4 总结
+
+PowerBI中的帕累托图制作时逻辑要清楚，难点在于计算累计占比中的累计值时，要遍历汇总表中的每行数据，将大于等于当前值的行进行求和。
+
+此方法制作出来的帕累托图是固定的，也就是在制作过程中将参数写死了，比如需要查看2019年的帕累托图，此时图上数据是不会变动的。
+
+如何制作可以筛选年份的各省GDP帕累托图将会在下篇文章中介绍。
+
+---
+
+**未经授权，禁止转载！**
+
+**详情可关注公众号“Hill的数据分析成长之路"**
+
+发布于 2020-06-22 11:03[字节自研大模型，豆包大模型特惠来袭！](https://www.volcengine.com/activity/ark?utm_source=7&utm_medium=zhihu&utm_term=vg_zhihu_libao_webtw_dmx19k9&utm_campaign=0&utm_content=dbdmx_19k9&spu=biz%3D0%26ci%3D3643620%26si%3De0d543ba-b9d3-4f24-937f-00e02776db5d%26ts%3D1793341634%26zid%3D1629)
+
+[
+
+多模态理解能力，一流的GUI操作能力，日均tokens使用量超180万亿，新用户仅需40元，即享约800万tokens
+
+](https://www.volcengine.com/activity/ark?utm_source=7&utm_medium=zhihu&utm_term=vg_zhihu_libao_webtw_dmx19k9&utm_campaign=0&utm_content=dbdmx_19k9&spu=biz%3D0%26ci%3D3643620%26si%3De0d543ba-b9d3-4f24-937f-00e02776db5d%26ts%3D1793341634%26zid%3D1629)
+
+赞同 17
