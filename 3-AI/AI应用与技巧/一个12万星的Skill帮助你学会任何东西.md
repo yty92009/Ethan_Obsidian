@@ -19,7 +19,7 @@ GitHub上有个仓库，122000颗星，是全世界最受欢迎的AI Agent技能
 
 不是什么能帮你写整个操作系统的超级技能，也不是什么能自动生成App的黑科技。这个Skill做的事情说出来你可能觉得有点朴素，它让AI变成你的私人老师，而且是一个能记住你学到哪了的老师。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0Wkmjl1rzwfA1iciaVibf2xhrZDVUX3QNrzGia7BgUroNiaiapyicYNuHeXfkpVzTfCnZnZ2JIjkibsR6QhJIjczNyegGKDwIQKiau7wROKcsre6KJBo/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+
 
 这个仓库叫Skills，全名Skills for Real Engineers。作者Matt Pocock，TypeScript社区的老熟人，如果你写过TypeScript大概率用过他的Total TypeScript课程。这哥们在AI编程这块也是深度玩家，他的Skills仓库里十几个Skill全是他自己日常用的，做真工程用的，不是那种demo级别的玩具。
 
@@ -29,7 +29,7 @@ GitHub上有个仓库，122000颗星，是全世界最受欢迎的AI Agent技能
 
 这个仓库的122000颗星，就是这种理念最好的证明。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0Wkmjl1rzwcV4sJkvGtXSofRPzicyMGIiankq3mec4Osqw70ygiboY9vicQAj6H08hQGGV2DepwspY4nrzG7thMpCYhkFXiazOxD6j2lBrLKFPso/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+
 
 回到Teach这个Skill。它的定位跟仓库里其他技能完全不同。其他Skill是帮你干活的，grill-me让AI疯狂追问你方案里的漏洞直到你自己都说不下去了，caveman帮你把对话压缩到极致省75%的token，diagnose给你一个结构化的debug流程。全是生产力工具。
 
@@ -49,7 +49,7 @@ Teach的核心设计理念是三个词，Knowledge，Skills，Wisdom。知识，
 
 第三层Wisdom，真实场景下的判断力。你什么时候该用F和弦而不是Fmaj7？什么情绪的歌曲适合什么样的和弦进行？这种东西教不了。至少AI教不了。Teach会老老实实告诉你，这块我帮不了你，你得去真实的社区里跟真人碰。它会帮你找到相关的论坛、社群、甚至线下兴趣小组，让你去真实世界里摔打。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/0Wkmjl1rzweunthU5RLKjk2VFhicO6UKFjsRRD8wxZIV7nKrc8TNxv66tBP72UBrlghicSQPUdCJS4jQnfKkdFib5ibcVGk5rEOf09EUnlnOxo8/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
+
 
 这三层分开来看都不算新鲜。但你把它们放在一起看就会发现，绝大多数AI学习工具只停留在第一层。你问它一个问题，它给你一堆信息，完事了。至于你消化了没有、能不能用上、判断力有没有提升，它不关心。
 
@@ -71,7 +71,7 @@ MISSION.md决定教什么，为什么教。learning-records决定下一步教什
 
 不是什么黑科技。就是把学习状态序列化到文件系统里。但就是这步操作，把AI辅助学习从「一次性消费」变成了「持续积累」。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0Wkmjl1rzwdN7RBQicRqj1g4icQsrDNwNZ3iciavlNo7cq8DtyVPQ7q3icMKNxfwXuJFjfiaVE411x5U9OO3biadtJLr665jMbxeLiaU73uf8HdGthA/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+
 
 顺着这个思路再聊聊。Teach背后的核心教育理论叫ZPD，Zone of Proximal Development，最近发展区。苏联心理学家维果茨基提出来的，大概一百年前了。
 
@@ -91,7 +91,7 @@ Teach把这个流程彻底改了。你的学习动机被显式定义在MISSION.m
 
 你可以把它想象成一个永远在那里的陪练。它可能没有真人老师的温度和直觉，但它不知疲倦，永远记得你上次学到了哪一步，永远知道接下来该教你什么。而且它可以同时教你魔方、声乐和编程，不冲突，因为每个主题有自己独立的状态空间。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/0Wkmjl1rzweZ3uXVkyDmu8mnvliaGems8HZibdibMfzHPODcoHjjSWsPMJDiasyQyHfycUFo5MdAMYPT0eWZtTUN2UOn20qtlKJ0W4aYQicf4iayc/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+
 
 Matt说他接下来要出一个视频详细展示Teach怎么用。我挺期待的。因为我觉得这个Skill代表的方向是对的，AI不只是帮你干活的工具，它也可以帮你成长。只是大部分人在忙着用AI提效的时候，忘了AI也可以是一个好老师。
 

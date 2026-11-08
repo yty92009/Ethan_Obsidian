@@ -8,7 +8,7 @@ description: "1. ReAct（推理与行动协同）\x0a这是所有架构的起点
 tags:
   - "clippings"
 ---
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/OjGLA38icOyrcHDibonP3ZluHoz88oZxghSQwM7whgKiawmudzsCOI8KIIxXLicr5IZCY8fSZsubgOtA34utxPa1sDVqzsvbLglvvNsYVL9VDKk/0?from=appmsg&wxfrom=12&wx_fmt=png&tp=webp&usePicPrefetch=1&watermark=1) ![](https://mmbiz.qpic.cn/sz_mmbiz_png/OjGLA38icOyoCWZbuxfSec4LHGFibDvrlmfXEVwTKqcc01lGfqnApicicEIibAibmsrYlHWRvHq7nn66LlGiaTTODC0H3uHcfHLicpF7ZibrNK8XibCYw/0?from=appmsg&wxfrom=12&wx_fmt=png&tp=webp&watermark=1)
+ 
 
 1. 1
 2. 2

@@ -19,6 +19,9 @@ petter guo 全栈派森 *2025年7月28日 08:00*
 
 ### 本节你将学习到:
 
+> 原文此处原配 5 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
+
 1
 
 Airflow的用途, 执行器的使用, 数据源的选择
@@ -256,7 +259,7 @@ ETL 的核心用途是整合、清洗和准备数据，使其可用于业务智�
 
 docker desktop 安装
 
-![docker](https://mmbiz.qpic.cn/mmbiz_png/AibicsqrwWIbN2sV2AlNftepUfbWI4aSs02dIyvDvvNWic8uyUs4icsf7mE5fC2u6l8BlTwOkCbugJA8N7ptia5DrtA/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+（图：docker）
 
 docker
 
@@ -264,7 +267,7 @@ docker
 
 docker compose 安装
 
-![docker compose](https://mmbiz.qpic.cn/mmbiz_png/AibicsqrwWIbN2sV2AlNftepUfbWI4aSs0ic5MUBTe0kQkz9GIt7TfpG5UibtkfYObAl6CntDVIQ3lxgJYwBGVGIGg/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+（图：docker compose）
 
 docker compose
 
@@ -415,11 +418,11 @@ CMD ["airflow", "webserver"]
 
 执行 docker-compose up -d
 
-![服务启动](https://mmbiz.qpic.cn/mmbiz_png/AibicsqrwWIbN2sV2AlNftepUfbWI4aSs0mN0P0k2lAvgQRNIIQkSQgn8HLnicAMIQs2Kh6XmYqFSXwqFDZ1WktTA/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
+（图：服务启动）
 
 服务启动
 
-![服务启动成功](https://mmbiz.qpic.cn/mmbiz_png/AibicsqrwWIbN2sV2AlNftepUfbWI4aSs0Cmlt757nv2uRjCpkWkSiaib95P7blxzVvffW2d3O8OxMfic42mDwQPyVQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+（图：服务启动成功）
 
 服务启动成功
 
@@ -445,7 +448,7 @@ CMD ["airflow", "webserver"]
 
 访问127.0.0.1:8081 用户密码: admin/admin
 
-![web UI](https://mmbiz.qpic.cn/mmbiz_png/AibicsqrwWIbN2sV2AlNftepUfbWI4aSs0FhUpcnJjhQkrt8dl1nG7iaLdp6Qic2JUNMmTd2DTUiam17Aj74InYFoWw/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+（图：web UI）
 
 web UI
 

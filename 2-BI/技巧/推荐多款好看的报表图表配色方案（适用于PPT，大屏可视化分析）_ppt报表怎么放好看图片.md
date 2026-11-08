@@ -25,7 +25,7 @@ tags:
 
 方案1（复古）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/767266c2883c665b9bb25fa9cf2b5eda.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/767266c2883c665b9bb25fa9cf2b5eda.png)
 
 系列色——十六进制颜色码：
 
@@ -37,7 +37,7 @@ tags:
 
 方案2（新特性）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/1908d791bea54403f684d4a75b04d562.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/1908d791bea54403f684d4a75b04d562.png)
 
 系列色——十六进制颜色码：
 
@@ -49,7 +49,7 @@ tags:
 
 方案3（渐变）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/178658c130c5829ce5d3896a5107dcc5.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/178658c130c5829ce5d3896a5107dcc5.png)
 
 系列色——十六进制颜色码：
 
@@ -61,7 +61,7 @@ tags:
 
 方案4（清新）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/724732af7e812f7d5a0d6c723afa6a77.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/724732af7e812f7d5a0d6c723afa6a77.png)
 
 系列色——十六进制颜色码：
 
@@ -73,7 +73,7 @@ tags:
 
 方案5（怀旧）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/9d9857e7c0213575cfb09e43feb84580.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/9d9857e7c0213575cfb09e43feb84580.png)
 
 系列色——十六进制颜色码：
 
@@ -85,7 +85,7 @@ tags:
 
 方案6（商务）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/5c281654bcf4ec4fe64c06f50b2a696a.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/5c281654bcf4ec4fe64c06f50b2a696a.png)
 
 系列色——十六进制颜色码：
 
@@ -97,7 +97,7 @@ tags:
 
 方案7（明亮）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/b8eb5c5c380085fb7ce5bc7a6bed37cc.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/b8eb5c5c380085fb7ce5bc7a6bed37cc.png)
 
 系列色——十六进制颜色码：
 
@@ -109,7 +109,7 @@ tags:
 
 方案8（雅致）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/b2d20963089886cfc3f813018199627f.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/b2d20963089886cfc3f813018199627f.png)
 
 系列色——十六进制颜色码：
 
@@ -121,7 +121,7 @@ tags:
 
 方案9（柔和）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/9e11ccfcd7a09cab68a3352916653b02.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/9e11ccfcd7a09cab68a3352916653b02.png)
 
 系列色——十六进制颜色码：
 
@@ -133,7 +133,7 @@ tags:
 
 方案10（淡雅）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/602b75c327c1eb3ab87c238af7d2cf77.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/602b75c327c1eb3ab87c238af7d2cf77.png)
 
 系列色——十六进制颜色码：
 
@@ -145,7 +145,7 @@ tags:
 
 方案11（经典）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/5e5d8e0907439916d4b5d78b4d040de7.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/5e5d8e0907439916d4b5d78b4d040de7.png)
 
 系列色——十六进制颜色码：
 
@@ -157,7 +157,7 @@ tags:
 
 方案12（艳丽）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/28c1cc8670f05c8c39c74140edc3ea76.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/28c1cc8670f05c8c39c74140edc3ea76.png)
 
 系列色——十六进制颜色码：
 
@@ -169,7 +169,7 @@ fa2c7b - ff38e0 - ffa235 - 04c5f3 - 0066fe - 8932a5 - c90444 - cb9bff - 434348 -
 
 方案13（科技）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/0a137cf27976a131b7f7566d9eb64457.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/0a137cf27976a131b7f7566d9eb64457.png)
 
 系列色——十六进制颜色码：
 
@@ -181,7 +181,7 @@ fa2c7b - ff38e0 - ffa235 - 04c5f3 - 0066fe - 8932a5 - c90444 - cb9bff - 434348 -
 
 方案14（炫彩1）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/fc11984671a0819d288220412fb08596.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/fc11984671a0819d288220412fb08596.png)
 
 系列色——十六进制颜色码：
 
@@ -193,7 +193,7 @@ e75840 - a565ef - 628cee - eb9358 - d05c7c - bb60b2 - 433e7c - f47a75 - 009db2 -
 
 方案15（炫彩2）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/d9a3523e8fd879ca9d820a8effae689f.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/d9a3523e8fd879ca9d820a8effae689f.png)
 
 系列色——十六进制颜色码：
 
@@ -205,7 +205,7 @@ ef4464 - fad259 - d22e8d - 03dee0 - d05c7c - bb60b2 - 433e7c - f47a75 - 009db2 -
 
 方案16（简洁1）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/cfa52286f511add96322a4e5294f8ee2.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/cfa52286f511add96322a4e5294f8ee2.png)
 
 系列色——十六进制颜色码：
 
@@ -217,7 +217,7 @@ ef4464 - fad259 - d22e8d - 03dee0 - d05c7c - bb60b2 - 433e7c - f47a75 - 009db2 -
 
 方案17（简洁2）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/4a4ff53bd98fb851bbc608d33179a4c1.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/4a4ff53bd98fb851bbc608d33179a4c1.png)
 
 系列色——十六进制颜色码：
 
@@ -229,7 +229,7 @@ ef4464 - fad259 - d22e8d - 03dee0 - d05c7c - bb60b2 - 433e7c - f47a75 - 009db2 -
 
 方案18（冷色1）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/792e495eea11b4cb1281490ae500ec56.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/792e495eea11b4cb1281490ae500ec56.png)
 
 系列色——十六进制颜色码：
 
@@ -241,7 +241,7 @@ bf19ff - 854cff - 5f45ff - 02cdff - 0090ff - 314976 - f9e264 - f47a75 - 009db2 -
 
 方案19（冷色2）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/e43c5847497476d8ecd9512535999d33.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/e43c5847497476d8ecd9512535999d33.png)
 
 系列色——十六进制颜色码：
 
@@ -253,7 +253,7 @@ bf19ff - 854cff - 5f45ff - 02cdff - 0090ff - 314976 - f9e264 - f47a75 - 009db2 -
 
 方案20（暖色）：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/d01e93c5d36342f1d5c28fd10adba0d8.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/d01e93c5d36342f1d5c28fd10adba0d8.png)
 
 系列色——十六进制颜色码：
 
@@ -265,4 +265,4 @@ bf19ff - 854cff - 5f45ff - 02cdff - 0090ff - 314976 - f9e264 - f47a75 - 009db2 -
 
 配色效果图全局概览：
 
-![](https://i-blog.csdnimg.cn/blog_migrate/7e2becf6d2ef782536b4513980f5a430.png)
+![](attachments/推荐多款好看的报表图表配色方案（适用于PPT，大屏可视化分析/7e2becf6d2ef782536b4513980f5a430.png)

@@ -11,7 +11,7 @@ tags:
 ---
 InfoQ 架构头条 InfoQ 架构头条 *2022年6月24日 11:30*
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/FE4VibF0SjfNiaHABXoIIO8xzI8NNEAiaTrwliaJAvMJjG393z26y73rNRy6QF5wHHpbbK8oGicApOHiaia38WT1cwtKg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+
 
 作者 | Sam Wheating Megan Parker
 
@@ -21,7 +21,7 @@ InfoQ 架构头条 InfoQ 架构头条 *2022年6月24日 11:30*
 
 Apache Airflow 是一个能够开发、调度和监控工作流的编排平台。在 Shopify，我们已经在生产中运行了两年多的 Airflow，用于各种工作流，包括数据提取、机器学习模型训练、Apache Iceberg 表维护和 DBT 驱动的数据建模。在撰写本文时，我们正通过 Celery 执行器和 MySQL 8 在 Kubernetes 上来运行 Airflow 2.2。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/YriaiaJPb26VMI8bYtEMA7ES9uxNmOWBhBaVyR7QiaT6wuLlM7fFvweoqOPwcefkPNgSvibqt1NY6gWeuy5MqzBc9w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+
 
 Shopify 在 Airflow 上的应用规模在过去两年中急剧扩大。在我们最大的应用场景中，我们使用了 10000 多个 DAG，代表了大量不同的工作负载。在这个场景中，平均有 400 多项任务正在进行，并且每天的运行次数超过 14 万次。由于 Shopify 的内部采用率越来越高，我们的 Airflow 部署将会产生更多的负载。因为这样的迅速增长，我们所面临的困难包括：文件存取速度太慢、对 DAG（Directed acyclic graph，有向无环图）能力的控制不足、流量水平的不规则、工作负载之间的资源争用等等。
 
@@ -149,7 +149,7 @@ def compute_schedule(dag_id, interval):
 
 得益于我们的随机时间表的实施，我们能够大大平滑负载。下图显示了在我们最大的单一 Airflow 环境中，每 10 分钟完成的任务数。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/YriaiaJPb26VMI8bYtEMA7ES9uxNmOWBhB1ouhrQ5XaapxwFWyjATspy4APnKnQSshzk8FOHsPxib7TpHmqH6xG0g/640?wx_fmt=png#imgIndex=2)
+
 
 ```js
 在我们的生产 Airflow 环境中，每 10 分钟执行一次任务

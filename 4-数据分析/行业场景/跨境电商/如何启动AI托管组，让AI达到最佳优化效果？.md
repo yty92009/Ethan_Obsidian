@@ -10,11 +10,14 @@ tags:
 ---
 ## 1\. 开启前
 
+> 原文此处原配 3 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
+
 \*可用智能诊断筛选campaign：
 
 结构诊断结果好的直接托管，差的优化后再托管/先手动管理至表现稳定后托管
 
-[![](https://downloads.intercomcdn.com/i/o/wa3tla8o/2309754690/1cb8be352a76bc710dcc37c71db3/66b49885cffa3.png?expires=1793343600&signature=d10f090de361b257c6c623609112786191e40f6cf1d96d24ee8a7bf62bdca97e&req=diMnH857mYdWWfMW1HO4zcmNAOvwS223OWEam%2BwNhjpIkJ20iwbnu5rWZLDB%0AkOJOc112kZwYok0xfNI%3D%0A)](https://downloads.intercomcdn.com/i/o/wa3tla8o/2309754690/1cb8be352a76bc710dcc37c71db3/66b49885cffa3.png?expires=1793343600&signature=d10f090de361b257c6c623609112786191e40f6cf1d96d24ee8a7bf62bdca97e&req=diMnH857mYdWWfMW1HO4zcmNAOvwS223OWEam%2BwNhjpIkJ20iwbnu5rWZLDB%0AkOJOc112kZwYok0xfNI%3D%0A)
+[](https://downloads.intercomcdn.com/i/o/wa3tla8o/2309754690/1cb8be352a76bc710dcc37c71db3/66b49885cffa3.png?expires=1793343600&signature=d10f090de361b257c6c623609112786191e40f6cf1d96d24ee8a7bf62bdca97e&req=diMnH857mYdWWfMW1HO4zcmNAOvwS223OWEam%2BwNhjpIkJ20iwbnu5rWZLDB%0AkOJOc112kZwYok0xfNI%3D%0A)
 
 ## 1.1 更适合交给AI
 
@@ -52,11 +55,11 @@ tags:
 
 \*产品系数可以根据产品的激进/重要程度自定义打分, 作为设定目标acos和预算时的参考系数.
 
-[![](https://downloads.intercomcdn.com/i/o/wa3tla8o/2412058266/955158fdaf1ac62bb17c43b0e62a/image.png?expires=1793343600&signature=e1228acb5ef1fa17078b0007a1ccf4b6455ead247cfd43edf2148d158d31f1ae&req=diQmFMl7lYNZX%2FMW1HO4zXSrVW1rNlX%2FVTYDJoZP36oxdHTJiW7a5gQwnmQP%0AZtE9ZoiXGr%2FH8k075Sw%3D%0A)](https://downloads.intercomcdn.com/i/o/wa3tla8o/2412058266/955158fdaf1ac62bb17c43b0e62a/image.png?expires=1793343600&signature=e1228acb5ef1fa17078b0007a1ccf4b6455ead247cfd43edf2148d158d31f1ae&req=diQmFMl7lYNZX%2FMW1HO4zXSrVW1rNlX%2FVTYDJoZP36oxdHTJiW7a5gQwnmQP%0AZtE9ZoiXGr%2FH8k075Sw%3D%0A)
+[](https://downloads.intercomcdn.com/i/o/wa3tla8o/2412058266/955158fdaf1ac62bb17c43b0e62a/image.png?expires=1793343600&signature=e1228acb5ef1fa17078b0007a1ccf4b6455ead247cfd43edf2148d158d31f1ae&req=diQmFMl7lYNZX%2FMW1HO4zXSrVW1rNlX%2FVTYDJoZP36oxdHTJiW7a5gQwnmQP%0AZtE9ZoiXGr%2FH8k075Sw%3D%0A)
 
 人格公式
 
-[![](https://downloads.intercomcdn.com/i/o/wa3tla8o/2400808781/e8a368c9ed684443d9012d6b09ac/image.png?expires=1793343600&signature=c64e3fc372619fde68a4de8af238b99d09a6f5039d9ca2a03c0b3433f29b6414&req=diQnFsF%2BlYZXWPMW1HO4zWzsgVFApI3x%2BN%2B47dNPqR2Y4Y1uxeTq2JxwX6wB%0A0ihEpu8i6WKM69Q9rH0%3D%0A)](https://downloads.intercomcdn.com/i/o/wa3tla8o/2400808781/e8a368c9ed684443d9012d6b09ac/image.png?expires=1793343600&signature=c64e3fc372619fde68a4de8af238b99d09a6f5039d9ca2a03c0b3433f29b6414&req=diQnFsF%2BlYZXWPMW1HO4zWzsgVFApI3x%2BN%2B47dNPqR2Y4Y1uxeTq2JxwX6wB%0A0ihEpu8i6WKM69Q9rH0%3D%0A)
+[](https://downloads.intercomcdn.com/i/o/wa3tla8o/2400808781/e8a368c9ed684443d9012d6b09ac/image.png?expires=1793343600&signature=c64e3fc372619fde68a4de8af238b99d09a6f5039d9ca2a03c0b3433f29b6414&req=diQnFsF%2BlYZXWPMW1HO4zWzsgVFApI3x%2BN%2B47dNPqR2Y4Y1uxeTq2JxwX6wB%0A0ihEpu8i6WKM69Q9rH0%3D%0A)
 
 ## 2.3 AI行动空间应用场景
 

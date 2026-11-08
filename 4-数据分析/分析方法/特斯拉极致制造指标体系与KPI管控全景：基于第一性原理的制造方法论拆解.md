@@ -13,6 +13,9 @@ tags:
 
 ## 核心成效：设计驱动的量级成本优势
 
+> 原文此处原配 9 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
+
 特斯拉以第一性原理重构制造逻辑，通过设计制造一体化、单线极致节拍、端到端垂直整合，从源头压缩制造成本。
 
 | 核心指标 | 特斯拉水平 | 传统车企水平 | 领先幅度 |
@@ -40,7 +43,7 @@ tags:
 | 丰田TPS精益 | 消除浪费+持续改善 | 全品类稳定生产 | 效率天花板偏低 |
 | 大众平台化 | 模块共用+规模摊销 | 多车型矩阵布局 | 前期投入周期长 |
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/0OyFmSic2G7KsiaByF18zskEC9C5jWjOSoiadKVMELc4NC4SpM8ZpVVw4CvHChicY44MaK2zWBadicuAlKqR2eWHNZnhK784eaMtNCd38Eyo0TkI/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0) ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/0OyFmSic2G7KdZyibSaqoicsdlFd55MPNWUQH1uxFqrwwXHzgyj1zIMxKJGk0nkftmnAnq53rQNTuL6nxNO5xKZ8hWjVgGZr3lOJ0wyLd4rpy0/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2) ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0OyFmSic2G7K7pPVw5nx3C20TGSZmxHaX239R8Hr6MfhhJCDuDhu7nuqGabLEWh8gWUjyhqTrIdymD463eyj6Zl8YEWiaXBZPVsLIDxMM1cLE/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4) ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0OyFmSic2G7IoibWUkb8xXGicqTXTRhzcabLbG1gH44UfvvdicIv2SIM0Z5Hejdz5ibbUibOwmay8AdyRnNX2gdNOvF5mVQM8lrJId5xApMuH5Gow/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=6) ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0OyFmSic2G7IiajFQf0cTSJgFnRVbrYrK5Hhpl6lic3V7wsyqia9OHm6pYQ8JzibURIo4UibltdoLexkPwQ6ibIRA58MhgWlKEibvlAT4utosw4u01M/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=8) ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0OyFmSic2G7LIXcuX0MWBHvlM7lsBNklBDr3BkyI8iaelliceToRsg6fhlncvDiclXYicNCUoUKMuOIQYibicrTg1tsjVXPnVrRS4uMDFDwJ0QVQEo/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=10) ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/0OyFmSic2G7LdTYxKVe3kibibD6YDUIzRk0228CicmibR9Tiaib2sibib3NwAaeIibwF2P7UbHmNhttiauxKCvYsicicILOo1KWphDyAQIGx9Ihh1UYFwJ1k/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=12) ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0OyFmSic2G7KgmyDOJzpwXYsHHUN9MWLO4XNDgaSTlQuxj0sia2c9Ovrvia0pDLjRncaibKUWdswEyhu3NJiaNEM2FMicsgq9tEFlkez8Y2jRrIao/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=14) ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/0OyFmSic2G7Is4f75rRI0eHw9wo9ibgytfgPKcPEqKg6wc8ymw3F6OsUky1P91JialYNRNxpqTy4FoFJMms521kAShSibz5zFtf99KCI1ZrkrdU/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=16)
+        
 
 [华为流程绩效KPI与变革成熟度指标体系](https://mp.weixin.qq.com/s?__biz=MzU3NDY1NjkwNA==&mid=2247502456&idx=1&sn=b54797a877395dc9bf9621294ac56102&scene=21#wechat_redirect)
 

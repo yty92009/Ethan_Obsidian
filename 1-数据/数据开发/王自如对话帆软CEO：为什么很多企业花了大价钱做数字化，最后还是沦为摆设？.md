@@ -27,7 +27,7 @@ tags:
 
 尤其是下面这四个问题。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquSRiaNL9brVTlngGnsmkNOJE9s2jxGiapcucAQRFfp20KF4yHSvI0xDNUGJsDse5G3J8hic5X64ER5NVJDAKSKcyR3hRGEYJp0bMQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+
 
 **01 把买系统当成数字化，项目上线了，业务却没有改变  
 **
@@ -40,7 +40,7 @@ tags:
 
 例如，企业上线了ERP，各部门依然需要导出Excel进行二次加工；上线了经营分析平台，管理层依然需要财务人员手工整理数据；上线了生产管理系统，计划员还是习惯用Excel调整排产。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquQQjvCaT1s3wbw5aCqIzFY8zOLuXdoNUGbWjHwibMEPxAY53PTfXF6RcH0h9KGvVuVwgRQIu0EzMoEIJF3EU7IM64M8nywlENM0/640?wx_fmt=png&from=appmsg#imgIndex=1)
+
 
 为什么？
 
@@ -52,7 +52,7 @@ tags:
 
 例如，生产排产并不是简单地把一张Excel计划表搬到系统里，背后涉及设备状态、订单优先级、物料供应和生产规则。如果这些业务逻辑没有梳理清楚，即使换了一套软件，也只是把原来的操作方式搬到了线上。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquQJETYjZYxDkP0oicd1jt1ibUicGpKkYgESicxnBr3bxC4VKiboXm1dCX5g6O8TtjBGIjAFcEGKXGDiaYqcicMzIf9UaSUX6a7s2jaRAY/640?wx_fmt=png&from=appmsg#imgIndex=5)
+
 
 所以，数字化项目立项之前，企业应该先回答三个问题：
 
@@ -71,7 +71,7 @@ tags:
 
 例如，一笔客户订单进入销售系统之后，需要经过库存核查、生产排期、采购备料、生产执行和发货结算。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquSzd3iazyfI9zIPjwawSRSjmMCRkCbHFGPNsC4iaQdRI1jRJ2JQIO7qosI5FqzPDZcS7hBn7HTtX6iaiaFyowy3ziaXMaicq6VSlEpno/640?wx_fmt=png&from=appmsg#imgIndex=6)
+
 
 理论上，这应该是一条完整的业务链路。
 
@@ -87,7 +87,7 @@ tags:
 
 更值得注意的是，企业不仅需要记录业务最终结果，还要记录业务过程。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquT15aXBWCozA9OPyh5B3IT8ehrIhd1IraibOzvFUwdgfawVbiaXaSHYbvv4VgfO2iaoRaTD4HCQYWuyUEx4TtCgX5icqCCe5F1ibIpk/640?wx_fmt=png&from=appmsg#imgIndex=10)
+
 
 王自如在谈到制造业计划排产时，特别强调：
 
@@ -116,7 +116,7 @@ tags:
 
 同一个指标，不同部门可能有不同口径；同一笔业务，在不同系统中可能对应不同编号；不同系统的数据之间也缺少有效关联。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquSXjnwp69icZ3SN8ibCiaLTBYUXLSbdfRAAX5Jv9v9b1ys29gFrCjLQcichaM8RnpcwfVtZNcbM3fmGqFYAicjNEibicTQogUia2hyg76Q/640?wx_fmt=png&from=appmsg#imgIndex=14)
+
 
 王自如在访谈中分享过自己推动企业指标管理的经历。
 
@@ -141,7 +141,7 @@ tags:
 
 过去，企业主要通过固定报表和BI看板消费数据。管理层看经营报表，业务部门看指标看板，临时出现分析需求，还需要找数据人员重新取数、制作报表。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquQxQInv6ydoHkrMFiafflqYudlHiaW0v6qaurFJSkicx6mV5S2TCvico5ia2ABJyEU2cPP05mvIHibY4zdvIKSHTeI00ydibg0CXDKVqA/640?wx_fmt=png&from=appmsg#imgIndex=18)
+
 
 但在AI时代，数据消费方式正在发生变化。
 
@@ -155,9 +155,12 @@ tags:
 
 ## 云下体系：以Dora为中心，重构本地化产品能力。
 
+> 原文此处原配 15 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
+
 面向大型企业，帆软计划以Dora作为本地化Data Agent构建平台，用户既可以手动配置智能体，也可以通过对话生成。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquRKH756ZDwh224liawScXNiaVSiclvZwYQwJnomOickW6ib7SGauJUaLbeInZMWkfhN0n3hfAkJic6kkODZrQRL0TYr7X8zSFb7qYRFM/640?wx_fmt=png&from=appmsg#imgIndex=19)
+
 
 围绕Dora，FineDataLink负责连接不同业务系统，通过数据集成和数仓技术整合分散的数据，为智能体提供数据；FineBI则承担数据承载底座的角色，通过指标中心、数据管理、数据源管理和语义层建设，沉淀企业已有的指标体系和业务规则。
 
@@ -169,7 +172,7 @@ tags:
 
 沈涛以FineBI Cloud的电商客户为例介绍，通过直接连接电商平台的标准API，企业接入账号后，就可以较快获得经营分析报告和归因分析结果。访谈中，他提到，一些标准化场景下，客户在一两天内就能看到初步分析结果。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquQoYmBLNOjiaAj77IrUt7unwkAwV0saPbHC9c1HRczWuiciaE6vxCsxU6TggaFfOu2oAdSwwGBXG7y452I8kQxZiaaU6pC3qAuvoeE/640?wx_fmt=png&from=appmsg#imgIndex=20)
+
 
 两条产品线面向不同规模和基础的企业，但背后的思路是一致的：让AI带来新的数据消费方式，同时放大企业过去积累的数据治理和数据再生产能力。
 
@@ -177,7 +180,7 @@ tags:
 
 “我们一个根本思想就是围绕新的数据消费形式，再把我们在上个时代沉淀出来的数据再生产、数据治理的能力给它进一步的放大。”
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/tESIBEIHquSgVjc1TxAn5JAiaTZK5OvTpaWOLzxt772nF4vO2whPE0saibP8YNkz0hK5ibKOlYxfs6kMAhbTKRDd1HQcYT0AWzjIMXYmy7KTfI/640?wx_fmt=png&from=appmsg#imgIndex=24)
+
 
 从FineDataLink的数据连接，到FineBI的数据管理和指标体系，再到Dora的企业级智能体应用，帆软并不是简单地在传统BI上增加一个AI聊天入口，而是在尝试重新组织企业数据从治理到消费的完整链路。
 
@@ -185,7 +188,7 @@ tags:
 
 王自如在访谈中指出，个人Agent主要解决日常办公效率问题，而企业级Data Agent背后连接的是企业庞大的数据库，需要考虑数据权限、安全性和结果准确性。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquSvVfdXQWIw1nrCPCq9PKRv7jqcNDmaq6ZynrpyRrV84fYTAqx5E1SUUwahpNUqzEick4IvQMlEQmBibB9hMCJrqjDXX2UCXh2Ag/640?wx_fmt=png&from=appmsg#imgIndex=25)
+
 
 他有一句话说得很直接：
 
@@ -212,7 +215,7 @@ tags:
 
 这家企业真正困难的不是把数据整理出来，而是经营分析会结束之后，谁来跟踪问题、推动整改，以及建立相应的考核机制。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquQ8doI9ibfaC6RRPXF1icXKYWCSBGJVLDevORB4ZiaWA6y5DFm0MiamoBrdicBPQbggKXlGbNI1EDj4JNrjUiaXt9MQZXV1sk2SmrJI4/640?wx_fmt=png&from=appmsg#imgIndex=29)
+
 
 所以，企业需要建立的不只是项目建设机制，还包括持续运营机制：
 
@@ -222,7 +225,7 @@ tags:
 - 将系统使用与经营分析、业务改善结合起来；
 - 对发现的问题明确责任人、整改措施和完成时间。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquQXcPNiaUhD2ibf0TcGic59ia0jmQafMXUo1g7ib3S3VvOCEDkTntrLVv8fecETj9m8eibAKxDCVVqMTTnViasWEySAQbaf9mN2H9NicF0/640?wx_fmt=png&from=appmsg#imgIndex=30)
+
 
 **数字化项目不是验收通过就结束了，真正的考验是上线之后还有多少人在用、用得怎么样、业务有没有因此发生改变。**
 
@@ -237,7 +240,7 @@ tags:
 
 不要一开始就想着建设数据中台、部署大模型，而是先找到一个具体的业务痛点。围绕库存、订单交付、成本和利润等问题选择系统和工具，数字化建设才有明确的价值目标。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquSWsx5RSY1xabyMHh0rOhwRmt8uQ2ic6OQ4lXSVZliaWG0KS4uj2swCkFByqkI6VvWYFnl9mRIkzP4vONb3JTzz53OgK3ib7oSqcI/640?wx_fmt=png&from=appmsg#imgIndex=31)
+
 
 ## 第二，从数据连接和治理入手，而不是只追求系统数量。
 
@@ -253,7 +256,7 @@ tags:
 
 沈涛在访谈中还介绍了帆软的三种服务思路：以标准化产品为主的自助建设、面向复杂业务的组合解决方案，以及与头部企业共同打磨创新业务模式。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/tESIBEIHquRyd4EzpA2r8qvbPdmFnb9YkibaUicydEyXongU3vdqNllSRcHoLP0ECZ7K6QqO0ddp4udz1WicWWOMiaj4PoDyI7xZyib7Ia43ic5u8/640?wx_fmt=png&from=appmsg#imgIndex=32)
+
 
 其核心不是让供应商替企业包办所有工作，而是通过产品和服务帮助企业逐步建立自己的数字化能力。
 

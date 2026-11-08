@@ -14,6 +14,9 @@ tags:
 
 ## [官方博客](https://powerbi.microsoft.com/en-us/blog/)
 
+> 原文此处原配 20 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
+
 官方信息权威发布渠道，内容涵盖产品更新、新功能介绍等
 
 ## [官方文档](https://docs.microsoft.com/zh-cn/power-bi/)
@@ -268,7 +271,7 @@ Power BI中国区历届可视化大赛作品回顾
 
 中文图书
 
- [![](https://img12.360buyimg.com/n1/jfs/t1/164156/3/14709/138396/605c2bb5E0c745571/393c186eb8cd3c5d.jpg) ![](https://img12.360buyimg.com/n1/jfs/t1/164156/3/14709/138396/605c2bb5E0c745571/393c186eb8cd3c5d.jpg)](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQASAFwdUhYyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVABIAXB1SFh1LQglGa1FVeQ9LR1wXYEF1KUcJQltKUz5QL2UOHjdUK1sUAxEEXBheHQoiN1Uca0NsEgZUGloUBxICVitaJQIVB1MfUxUKEQFQHlglBRIOZVkfVFZRXgVdASUyIgRlK2sVMhE3F3VTHQcUAlYSXx1XQVJQTlIWCxdVBRgORQQbAAVLWh0FFDdXGloRCw%3D%3D)
+ [ ](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQASAFwdUhYyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVABIAXB1SFh1LQglGa1FVeQ9LR1wXYEF1KUcJQltKUz5QL2UOHjdUK1sUAxEEXBheHQoiN1Uca0NsEgZUGloUBxICVitaJQIVB1MfUxUKEQFQHlglBRIOZVkfVFZRXgVdASUyIgRlK2sVMhE3F3VTHQcUAlYSXx1XQVJQTlIWCxdVBRgORQQbAAVLWh0FFDdXGloRCw%3D%3D)
 
 ## [DAX权威指南中文版](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQASAFwdUhYyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVABIAXB1SFh1LQglGa1FVeQ9LR1wXYEF1KUcJQltKUz5QL2UOHjdUK1sUAxEEXBheHQoiN1Uca0NsEgZUGloUBxICVitaJQIVB1MfUxUKEQFQHlglBRIOZVkfVFZRXgVdASUyIgRlK2sVMhE3F3VTHQcUAlYSXx1XQVJQTlIWCxdVBRgORQQbAAVLWh0FFDdXGloRCw%3D%3D)
 
@@ -276,7 +279,7 @@ DAX领域的巅峰之作，学习Power BI的必读书目。译者：Power BI极�
 
 [京东购书](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQASAFwdUhYyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVABIAXB1SFh1LQglGa1FVeQ9LR1wXYEF1KUcJQltKUz5QL2UOHjdUK1sUAxEEXBheHQoiN1Uca0NsEgZUGloUBxICVitaJQIVB1MfUxUKEQFQHlglBRIOZVkfVFZRXgVdASUyIgRlK2sVMhE3F3VTHQcUAlYSXx1XQVJQTlIWCxdVBRgORQQbAAVLWh0FFDdXGloRCw%3D%3D)
 
- [![](https://img14.360buyimg.com/n1/jfs/t1/161751/19/11140/364197/6046f5a9E4aec5ca1/e92dc447c7ed1478.jpg) ![](https://img14.360buyimg.com/n1/jfs/t1/161751/19/11140/364197/6046f5a9E4aec5ca1/e92dc447c7ed1478.jpg)](https://item.jd.com/10027456294010.html)
+ [ ](https://item.jd.com/10027456294010.html)
 
 ## [Power BI商业数据分析](https://item.jd.com/10027456294010.html)
 
@@ -284,7 +287,7 @@ DAX领域的巅峰之作，学习Power BI的必读书目。译者：Power BI极�
 
 [京东购书](https://item.jd.com/10027456294010.html)
 
- [![](https://img13.360buyimg.com/n1/s200x200_jfs/t15508/143/1169685983/130513/158b6208/5a4c4342N290df49a.jpg) ![](https://img13.360buyimg.com/n1/s200x200_jfs/t15508/143/1169685983/130513/158b6208/5a4c4342N290df49a.jpg)](https://item.jd.com/12293658.html?powerbigeek.com)
+ [ ](https://item.jd.com/12293658.html?powerbigeek.com)
 
 ## [从Excel到Power BI：商业智能数据分析](https://item.jd.com/12293658.html?powerbigeek.com)
 
@@ -292,7 +295,7 @@ DAX领域的巅峰之作，学习Power BI的必读书目。译者：Power BI极�
 
 [京东购书](https://item.jd.com/12293658.html?powerbigeek.com)
 
- [![](https://img11.360buyimg.com/n1/s200x200_jfs/t1/53813/40/5643/492024/5d35809fEa03d2553/b6c69468c643e391.jpg) ![](https://img11.360buyimg.com/n1/s200x200_jfs/t1/53813/40/5643/492024/5d35809fEa03d2553/b6c69468c643e391.jpg)](https://item.jd.com/12662576.html?powerbigeek.com)
+ [ ](https://item.jd.com/12662576.html?powerbigeek.com)
 
 ## [Power BI权威指南](https://item.jd.com/12662576.html?powerbigeek.com)
 
@@ -300,7 +303,7 @@ DAX领域的巅峰之作，学习Power BI的必读书目。译者：Power BI极�
 
 [京东购书](https://item.jd.com/12662576.html?powerbigeek.com)
 
- [![](https://img11.360buyimg.com/n1/s200x200_jfs/t24679/59/584067561/170109/2762c443/5b74edb7N2bbaf25d.jpg) ![](https://img11.360buyimg.com/n1/s200x200_jfs/t24679/59/584067561/170109/2762c443/5b74edb7N2bbaf25d.jpg)](https://item.jd.com/12410441.html?powerbigeek.com)
+ [ ](https://item.jd.com/12410441.html?powerbigeek.com)
 
 ## [人人都是数据分析师：微软Power BI实践指南](https://item.jd.com/12410441.html?powerbigeek.com)
 
@@ -308,7 +311,7 @@ DAX领域的巅峰之作，学习Power BI的必读书目。译者：Power BI极�
 
 [京东购书](https://item.jd.com/12410441.html?powerbigeek.com)
 
- [![](https://img11.360buyimg.com/n1/s200x200_jfs/t1/25597/37/14976/195750/5cac3dcdE90e133c5/5ae48cc50f5ff178.jpg) ![](https://img11.360buyimg.com/n1/s200x200_jfs/t1/25597/37/14976/195750/5cac3dcdE90e133c5/5ae48cc50f5ff178.jpg)](https://item.jd.com/12573886.html?powerbigeek.com)
+ [ ](https://item.jd.com/12573886.html?powerbigeek.com)
 
 ## [Power BI商业数据分析项目实战](https://item.jd.com/12573886.html?powerbigeek.com)
 
@@ -316,7 +319,7 @@ DAX领域的巅峰之作，学习Power BI的必读书目。译者：Power BI极�
 
 [京东购书](https://item.jd.com/12573886.html?powerbigeek.com)
 
- [![](https://img14.360buyimg.com/n1/s200x200_jfs/t1/104828/20/9900/362483/5e152de5Eb49d6864/12274a36fdb97f8e.jpg) ![](https://img14.360buyimg.com/n1/s200x200_jfs/t1/104828/20/9900/362483/5e152de5Eb49d6864/12274a36fdb97f8e.jpg)](https://item.jd.com/12793994.html?powerbigeek.com)
+ [ ](https://item.jd.com/12793994.html?powerbigeek.com)
 
 ## [34招精通商业智能数据分析：Power BI和Tableau进阶实战](https://item.jd.com/12793994.html?powerbigeek.com)
 
@@ -324,7 +327,7 @@ DAX领域的巅峰之作，学习Power BI的必读书目。译者：Power BI极�
 
 [京东购书](https://item.jd.com/12793994.html?powerbigeek.com)
 
- [![](https://img12.360buyimg.com/n1/s200x200_jfs/t1/27492/13/13728/387868/5ca1d07dE1515942b/0cb426c23cd6a897.jpg) ![](https://img12.360buyimg.com/n1/s200x200_jfs/t1/27492/13/13728/387868/5ca1d07dE1515942b/0cb426c23cd6a897.jpg)](https://item.jd.com/12507457.html?powerbigeek.com)
+ [ ](https://item.jd.com/12507457.html?powerbigeek.com)
 
 ## [从数据到Excel自动化报表 PowerQuery和PowerPivot …](https://item.jd.com/12507457.html?powerbigeek.com)
 
@@ -332,7 +335,7 @@ DAX领域的巅峰之作，学习Power BI的必读书目。译者：Power BI极�
 
 [京东购书](https://item.jd.com/12507457.html?powerbigeek.com)
 
- [![](https://img12.360buyimg.com/n3/jfs/t16597/301/1722655509/289056/f9e47910/5ad5c243N335013cc.jpg) ![](https://img12.360buyimg.com/n3/jfs/t16597/301/1722655509/289056/f9e47910/5ad5c243N335013cc.jpg)](https://item.jd.com/11619168.html?powerbigeek.com)
+ [ ](https://item.jd.com/11619168.html?powerbigeek.com)
 
 ## [微软Excel 2013：用PowerPivot 建立数据模型](https://item.jd.com/11619168.html?powerbigeek.com)
 
@@ -340,7 +343,7 @@ DAX领域的巅峰之作，学习Power BI的必读书目。译者：Power BI极�
 
 [京东购书](https://item.jd.com/11619168.html?powerbigeek.com)
 
- [![](https://img13.360buyimg.com/n1/s200x200_jfs/t6199/61/652468644/238575/6d1d682b/59434192Nef2fbf77.jpg) ![](https://img13.360buyimg.com/n1/s200x200_jfs/t6199/61/652468644/238575/6d1d682b/59434192Nef2fbf77.jpg)](https://item.jd.com/12213218.html?powerbigeek.com)
+ [ ](https://item.jd.com/12213218.html?powerbigeek.com)
 
 ## [Power Query：用Excel玩转商业智能数据处理](https://item.jd.com/12213218.html?powerbigeek.com)
 

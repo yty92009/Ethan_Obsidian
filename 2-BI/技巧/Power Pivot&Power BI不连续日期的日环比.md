@@ -19,11 +19,14 @@ tags:
 
 ## 一、背景
 
+> 原文此处原配 2 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
+
 这两天有朋友在交流，dax中使用 [时间智能函数](https://zhida.zhihu.com/search?content_id=104327551&content_type=Article&match_order=1&q=%E6%97%B6%E9%97%B4%E6%99%BA%E8%83%BD%E5%87%BD%E6%95%B0&zhida_source=entity) 写日环比，一个 *dateadd* 就可以了。但是有些业务不是每天都连续发生的，比如股票，周末就没数据，要环比上一个日期就不太好使了。诸如此类业务不连续的业务如何写日环比呢？
 
 ## 二、数据源
 
-![](https://pic4.zhimg.com/v2-16c1c948d46e4786979e58af291a2111_1440w.jpg)
+
 
 **需求:**
 
@@ -86,7 +89,7 @@ if(pt=BLANK(),BLANK(),divide('calendar'[total],pt)-1)
 
 5、结果图
 
-![](https://pic4.zhimg.com/v2-a1ceccd5bd7a5c79d98056b7f484eef1_1440w.jpg)
+
 
 ## 四、总结
 

@@ -15,11 +15,14 @@ Power BI Desktop 在后台工作，自动识别表示日期的列，然后代表
 
 许多数据分析师更倾向于创建其自己的日期表，这样做也可以。 在 Power BI Desktop 中，可以指定希望模型将其用作日期表的表，然后使用该表的日期数据创建与日期相关的视觉对象、表、快速度量值等。 指定自己的日期表时，可以控制在模型中创建的日期层次结构，并在快速措施和使用模型日期表的其他操作中使用它们。
 
-![Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”对话框。](https://learn.microsoft.com/zh-cn/power-bi/transform-model/media/desktop-date-tables/date-tables_01.png)
+（图：Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”对话框。）
 
 Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”对话框。
 
 ## 您需要标记您的日期表的时机
+
+> 原文此处原配 6 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
 
 如果在 [Power BI 中使用经典时间智能函数](https://learn.microsoft.com/zh-cn/power-bi/transform-model/desktop-time-intelligence#classic-time-intelligence) ，或者以下任一方案适用于你，则必须标记日期表：
 
@@ -30,13 +33,13 @@ Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”对话
 
 若要设置 **日期表** ，请在字段窗格中选择要用作日期表的表，然后右键单击该表，在出现的菜单中选择标记为日期表标记为日期表，如下图所示。
 
-![Power BI Desktop 的屏幕截图，其中显示了“字段”窗格中的“标记为日期表”选项。](https://learn.microsoft.com/zh-cn/power-bi/transform-model/media/desktop-date-tables/date-tables_02.png)
+（图：Power BI Desktop 的屏幕截图，其中显示了“字段”窗格中的“标记为日期表”选项。）
 
 Power BI Desktop 的屏幕截图，其中显示了“字段”窗格中的“标记为日期表”选项。
 
 还可以选择该表，然后从“表工具”功能区中选择“标记为日期表”，如此处所示。
 
-![Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”按钮和选项筛选器。](https://learn.microsoft.com/zh-cn/power-bi/transform-model/media/desktop-date-tables/date-tables_02b.png)
+（图：Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”按钮和选项筛选器。）
 
 Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”按钮和选项筛选器。
 
@@ -56,7 +59,7 @@ Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”按钮
 
 指定日期表后，可以选择将该表中的哪一列作为日期列。 可以通过选择 **字段** 窗格中的表来指定要使用的列，然后右键单击该表并选择标记为日期表 日期表设置。 此时将出现以下窗口，可以从窗口的下拉列表中选择要用作日期表的列。
 
-![Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”对话框以及重要说明。](https://learn.microsoft.com/zh-cn/power-bi/transform-model/media/desktop-date-tables/date-tables_03.png)
+（图：Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”对话框以及重要说明。）
 
 Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”对话框以及重要说明。
 
@@ -69,10 +72,10 @@ Power BI Desktop 的屏幕截图，其中显示了“标记为日期表”对话
 指定自己的日期表时，需要确保数据类型已正确设置。 你想要将 **数据类型** 设置为 **“日期/时间”** 或 **“日期** ”：
 
 1. 从“字段”窗格中选择日期表，并根据需要将其展开，然后选择要用作日期的列。
-	![Power BI Desktop 的屏幕截图，其中显示了“字段”窗格中的“日期”筛选器。](https://learn.microsoft.com/zh-cn/power-bi/transform-model/media/desktop-date-tables/date-tables_04.png)
+	（图：Power BI Desktop 的屏幕截图，其中显示了“字段”窗格中的“日期”筛选器。）
 	Power BI Desktop 的屏幕截图，其中显示了“字段”窗格中的“日期”筛选器。
 2. 在“列工具”选项卡上，选择“数据类型”，然后选择下拉箭头以显示可用的数据类型。
-	![Power BI Desktop 的屏幕截图，其中显示了“建模”选项卡并选择了“数据类型”筛选器。](https://learn.microsoft.com/zh-cn/power-bi/transform-model/media/desktop-date-tables/date-tables_05.png)
+	（图：Power BI Desktop 的屏幕截图，其中显示了“建模”选项卡并选择了“数据类型”筛选器。）
 	Power BI Desktop 的屏幕截图，其中显示了“建模”选项卡并选择了“数据类型”筛选器。
 3. 指定列的数据类型。
 

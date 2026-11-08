@@ -8,7 +8,7 @@ description: "向量不是冰冷的数字，是语义的经纬度。Embedding �
 tags:
   - "clippings"
 ---
-![](https://mmbiz.qpic.cn/mmbiz_png/PEAibPoJXVyNJMre2exaTF1tWa9pRRZicugK5h52AIJoT48OX2KwKWWlQu7Ab9vKZoehye7EEJAJLgiayhmibdksrDFibRPibIMGTrvv4fpyHGbsU/0?wxfrom=12&wx_fmt=png&tp=webp&usePicPrefetch=1) ![](https://mmbiz.qpic.cn/sz_mmbiz_png/PEAibPoJXVyOSbYBCHIn3ib9npFGS3Ek8wibfHAuHaZWdT1DKTblANAiaSXnOiacIUEYjvmIKxcxsQRKmgq9pjbFyuPXwuAoPyaKL9CObP7znHh4/0?wxfrom=12&wx_fmt=png&tp=webp&usePicPrefetch=1&watermark=1)
+![](attachments/Embedding 向量嵌入：AI世界的经纬度/0) ![](attachments/Embedding 向量嵌入：AI世界的经纬度/0_9bee1e)
 
 1. 1
 

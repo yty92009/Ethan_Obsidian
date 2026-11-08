@@ -17,12 +17,12 @@ tags:
 
 \=FORMAT(SUM(Table\[Field\]),"0.00%")
 
-![](https://img2020.cnblogs.com/blog/1565387/202105/1565387-20210519110244197-1212377222.png)
+
 
 ---
 
 基础函数之转换函数：  
-![](https://img2020.cnblogs.com/blog/1565387/202107/1565387-20210705171807943-1023489557.png)
+
 
 ---
 
@@ -68,7 +68,7 @@ weekday2 = Format('Bonus'[FROM_DATE],"DDDD")
 
 　　但是这个表达式不适用于直连模式
 
-![](https://img2020.cnblogs.com/blog/1565387/202012/1565387-20201221170318307-1427790120.png)
+
 
 ---
 
@@ -102,6 +102,6 @@ IF(dateweek = thisweek,7,'D_DATE'[WEEK_CODE])
 
 Step3 - 在视图页面添加Filter ，Week\_code = 7  
 实现结果：  
-![](https://img2020.cnblogs.com/blog/1565387/202107/1565387-20210716152151408-1871261939.png)
+
 
 感谢所有指点小萌新的大神们。。。

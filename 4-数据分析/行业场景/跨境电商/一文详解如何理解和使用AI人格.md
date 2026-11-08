@@ -10,6 +10,9 @@ tags:
 ---
 ## 1\. 什么是AI人格？
 
+> 原文此处原配 1 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
+
 SparkX中的 AI人格 是一个控制AI优化引擎以稳重或激进风格来执行优化行动的一个参数，它以1~5来控制具体的激进程度，卖家可结合商品的生意目标和不同阶段的广告策略进行调整。
 
 ## 2\. AI人格对优化动作的影响是什么？
@@ -39,7 +42,7 @@ SparkX中的 AI人格 是一个控制AI优化引擎以稳重或激进风格来�
 
 人格公式
 
-[![](https://downloads.intercomcdn.com/i/o/wa3tla8o/2310405820/6247c7e75658704cb312e09495f3/image.png?expires=1793344500&signature=5f21fa7a562a75ab259f4cce4d6555abfcc3092fb45345d7e2b0309b502f5494&req=diMmFs1%2BmIldWfMW1HO4zZ8lw8hE7XGCwc38BPMvr2XhTwD3GU6zIBimJvfT%0As4uW%2BlvF7W94bx4%2BOxY%3D%0A)](https://downloads.intercomcdn.com/i/o/wa3tla8o/2310405820/6247c7e75658704cb312e09495f3/image.png?expires=1793344500&signature=5f21fa7a562a75ab259f4cce4d6555abfcc3092fb45345d7e2b0309b502f5494&req=diMmFs1%2BmIldWfMW1HO4zZ8lw8hE7XGCwc38BPMvr2XhTwD3GU6zIBimJvfT%0As4uW%2BlvF7W94bx4%2BOxY%3D%0A)
+[](https://downloads.intercomcdn.com/i/o/wa3tla8o/2310405820/6247c7e75658704cb312e09495f3/image.png?expires=1793344500&signature=5f21fa7a562a75ab259f4cce4d6555abfcc3092fb45345d7e2b0309b502f5494&req=diMmFs1%2BmIldWfMW1HO4zZ8lw8hE7XGCwc38BPMvr2XhTwD3GU6zIBimJvfT%0As4uW%2BlvF7W94bx4%2BOxY%3D%0A)
 
 ## 4\. 注意事项
 

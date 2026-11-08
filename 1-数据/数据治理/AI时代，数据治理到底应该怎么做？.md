@@ -15,7 +15,7 @@ tags:
 
 以智能小Q为例，它每天帮业务人员回答成百上千个数据问题——查销售额、看流失率、分析转化漏斗，已经大幅提升了一线团队获取数据的效率。但在实际使用中，我们也观察到一个普遍现象：业务人员问"上个月的客户流失率是多少"，小Q迅速返回了结果，可不同部门对"流失"的定义本就不同——是30天未登录，还是合同到期未续约？问"北区销售额"，小Q查到了一张字段名叫 amt 的表，但 amt 究竟是含税金额、退款后金额、还是成交金额，底层数据本身就没有给出清晰的标注。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/ia7TorzX5Pa3QfCmApicI6gtxdpXh3YW8mhk2qViaLtASkALQT6dEI2qCQv0bDqTibFyPGDCMtla1pzDgYRjeePysOF0BVnZNwZATR6X1NaR0BA/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+![图片](attachments/AI时代，数据治理到底应该怎么做？/640)
 
 问题不在AI的能力，而在它所依赖的数据基础。当口径不统一、语义不清晰，再强的智能体也难以发挥更大的业务价值。
 
@@ -25,7 +25,7 @@ tags:
 
 当下，模型开源即可用，算力按需即可买——AI的基础设施正在快速商品化。对企业而言，真正决定AI能否落地赋能业务的，已不再是"用哪个模型"，而是 **"喂给模型的数据是否可信、可用、可治理"** 。谁能从散落在各系统中的复杂业务资料里，沉淀出口径统一、语义清晰的高质量数据资产，谁就拥有了驱动精准决策的差异化壁垒。数据治理能力，正在成为智能化竞争中真正的主动权。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/ia7TorzX5Pa22Qcoia0XGk0VWiaNzcqsEEHfYDFTmOmhd3mJJmb9vDaccibRRvdIrUX1AoAr23ghhtJIeST4eXpxky6a2EZ38UxwibpYibfcCm7lk/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2)
+![图片](attachments/AI时代，数据治理到底应该怎么做？/640_75a73c)
 
 **正在发生什么：**
 
@@ -45,7 +45,7 @@ tags:
 
 数据的消费主体，正在从"少数技术人员"变成"AI Agent+全体业务人员"。Gartner在2025年报告中预测，到2028年，企业内超过 **33%的业务应用交互中将嵌入AI Agent驱动** ；IDC的调研同样显示，已有 **45%的亚太区企业** 开始在数据分析场景中试点AI Agent。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ia7TorzX5Pa1Om4REM7Hic0otMej38plSYPONQnQvgEWYWUm19DpiaM3pfGbpKaNJklicqDB2GziawVCnJvrAIqhmlxztQVfexDmKFiaNqQ6XTZqU/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3)
+![图片](attachments/AI时代，数据治理到底应该怎么做？/640_843989)
 
 **所以本质上是数据消费主体变了，整个治理体系的假设就不成立了。**
 
@@ -61,7 +61,7 @@ tags:
 
 **从"开发兜底"到"数据裸奔"** ——原来可以被容忍的数据瑕疵，现在变成了直面用户的错误答案。数据质量的标准必须从"开发可用"提升到"终端用户可用"：完整性、准确性、时效性都需要大幅度拉高。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/ia7TorzX5Pa2PALB4t8jEXHkjRNUvlgJhngZ6eEvaFXzxCE8gQS12soCD38ozc71icic2niaGBngoIK5UmMw3ARqDYe8cfKXiaWlsRFudStQeZrc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4)
+![图片](attachments/AI时代，数据治理到底应该怎么做？/640_cd835d)
 
 **变化二：消费频次——从被动低频到主动高频**
 
@@ -71,7 +71,7 @@ AI Agent不一样。它是7×24小时不间断运行的。一个企业可能同�
 
 **从"偶发被动"到"持续高频"** ——数据服务化成为刚需。你需要实时/近实时的数据API，需要SLA管理（即服务等级协议，定义数据接口的可用性、响应时间等承诺）、限流、监控、版本管理。数据资产需要像微服务一样被运维。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/ia7TorzX5Pa1ickK3KuXJlicPxQSS9vDib9BafPM9o4YZcVGjpZFk6ic9LM9ke7d4K06dlACEcicbyz5xXBTMSYOZaj5InG1ia7xK5W0iaMk6eLQVTM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5)
+![图片](attachments/AI时代，数据治理到底应该怎么做？/640_06caca)
 
 **变化三：语义要求——从"人能懂"到"AI 能懂"**
 
@@ -81,7 +81,7 @@ AI Agent不一样。它是7×24小时不间断运行的。一个企业可能同�
 
 但AI Agent不知道。它看到amt，不确定这是交易金额、退款金额，还是含税金额。 **没有完整的元数据描述，AI就像一个入职第一天的新员工，面对一堆缩写和行话，完全懵了。**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/ia7TorzX5Pa22Jtqv9WiaicVTwsHcNYrINqo4tkLQhqmqcwSnISOoIRjibOiaDwmS6icEJ1yYWnty0oVVZxsDmfh20ESfFRWNiaKe9SbldARnF1Vic0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6)
+![图片](attachments/AI时代，数据治理到底应该怎么做？/640_6169a5)
 
 **从"口口相传"到"机器可理解"** ——治理的核心从"管住数据"升级为"让数据自解释"。这需要四项关键能力：
 
@@ -108,7 +108,7 @@ AI Agent没有"几个月"的试用期去慢慢学习。它每次查询都需要�
 
 治理要求也随之升级：知识资产需要系统化管理，每个数据资产需要关联口径说明和使用注意事项，知识需要以结构化形式精准提供给大模型上下文。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ia7TorzX5Pa3icASibfjjUdCDMia6ne9yRcW5nyP8VPHbVC74elibsoibnw5RWcBBRVvsK7H2ADZg6s7siazxNgC4XwRA1aWH7gP0ic34tyk40u8icJA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7)
+![图片](attachments/AI时代，数据治理到底应该怎么做？/640_d1a455)
 
 **变化五：数据模态——从结构化数据到全模态数据**
 
@@ -118,7 +118,7 @@ AI Agent没有"几个月"的试用期去慢慢学习。它每次查询都需要�
 
 **从"只管结构化"到"全模态覆盖"** ——数据治理范围必须扩展。文档、图片、音视频都需要纳入元数据管理体系，需要经历解析、切片、向量化（即将文本或图片转化为数学向量，以便AI进行语义搜索和匹配）、索引的全链路处理。存储层也需要从传统数据库扩展到向量数据库与全文检索引擎。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/ia7TorzX5Pa0K1jL6uLj2e0QlcY5HicItk8uW7R6kkSYKcVDpV2IWc5OjCuzCmfOsxkrOQAp2XlaQ4L9EMOXiaicOED2e99XOg3vugZrzMJs37A/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8)
+![图片](attachments/AI时代，数据治理到底应该怎么做？/640_1e0ab7)
 
 **三大治理策略：**
 

@@ -7,11 +7,11 @@
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/AI-Agent-00c853?style=flat)
-![Language](https://img.shields.io/badge/language-Chinese-2ea44f?style=flat)
-![Stars](https://img.shields.io/github/stars/didilili/ai-agents-from-zero?logo=github&style=flat)
-[![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://github.com/didilili/ai-agents-from-zero/)
-[![Read Online](https://img.shields.io/badge/在线阅读-点击访问-blue?logo=bookstack)](https://didilili.github.io/ai-agents-from-zero/#/)
+（图：AI）
+（图：Language）
+（图：Stars）
+[（图：GitHub）](https://github.com/didilili/ai-agents-from-zero/)
+[（图：Read Online）](https://didilili.github.io/ai-agents-from-zero/#/)
 
 [快速开始](#quick-start) • [教程大纲](教程目录大纲.md) • [案例汇总](教程案例链接汇总.md#教程案例链接汇总源码与在线演示) • [更新日志](教程更新日志.md) • [面试题库](AI智能体与大模型应用开发面试题库.md) • [新手入门与常见问题](新手入门与常见问题.md)
 
@@ -30,6 +30,9 @@
 ---
 
 ## 🤝 项目赞助
+
+> 原文此处原配 6 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
 
 <table>
 <tr>
@@ -228,7 +231,7 @@
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/image?repos=didilili/ai-agents-from-zero&type=date&legend=top-left)]()
+[（图：Star History Chart）]()
 
 ---
 

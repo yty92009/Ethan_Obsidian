@@ -21,11 +21,11 @@ tags:
 
 来看看DataBudy的架构图，语义层只是其一关键部分：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/sooib80cYllj0ehcq1ia45fAOFsNlyiaibc4iahmiceDpLMJ9yUnBAMrQydFFT9bGb9E1ibzFDg3HrFibn6YmuvkrYPDX9JkKoaTkTsuzbHYggz3eX0/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
+![图片](attachments/腾讯DataBuddy语义层架构及工程落地-这次是真的领先阿/640)
 
 语义层具体架构图见下面的图：
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/sooib80cYllgkicMlLezEiatgo4Sfnbo76vD5Dt1va22VpibfU9RHsovnz6n0ajUH178SMggQyibmJic7Dvgpgfhx7uw6Jw6Qj3J0OuIhJVR5Oj58/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+![图片](attachments/腾讯DataBuddy语义层架构及工程落地-这次是真的领先阿/640_e8335e)
 
 - Catalog统一资产目录，摸清数据底账，搞清表、字段、来源和上下游依赖。它是另外两层的地基，得先把「这张表这个字段是什么、从哪来」摸清楚，字段来源说不清，上面就没法定口径，更没法挂进骨架。
 - Semantic Model语义模型，统一指标口径，定义销售额含不含税、怎么拆分维度。它回答「过去有多少」
@@ -37,7 +37,7 @@ tags:
 
 简单说用户问：“上个月华东区客户的 DAU 是多少？”
 
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/sooib80cYllhwiarBuxibaaO701dYzkUWlmpgo1dFRKfB1DKIBwl5VwfWzWLgb5ov1105FSg6u4I8wmmS6te4vvBYiaBWJnpzeTm9iaib8EkYicHeU/640?wx_fmt=webp&from=appmsg&watermark=1#imgIndex=2)
+![image](attachments/腾讯DataBuddy语义层架构及工程落地-这次是真的领先阿/640_a8eacf)
 
 这个问题其实触及了两个重要方面：DAU指标口径咋定义的？啥是客户？这里的“华东地区”在企业一般是维度或者放在业务关系中。
 
@@ -47,7 +47,7 @@ tags:
 
 语义模型要做的，是把“DAU”固定成唯一一段计算逻辑，可预览 SQL、可追血缘。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sooib80cYllgkVKQLicG8wfMHGL1ocI3ukNylYeWOL7eA2MVThY8z6dDAFoMGss8icEXvicQQ1ap4atOsaZnLd1iaeGesSyY9onpnN8ZqL6CPdz4/640?wx_fmt=webp&from=appmsg&watermark=1#imgIndex=3)
+![图片](attachments/腾讯DataBuddy语义层架构及工程落地-这次是真的领先阿/640_f87bec)
 
 “客户指的是谁”归本体模型：销售部认为有转化的才叫客户，市场部认为有需求但没下单的也算。同一批账号，在业务上其实是“客户”与“商机”两个不同对象。口径错了，得到一个错的数字；对象错了，那就错的离谱了。
 
@@ -55,7 +55,7 @@ tags:
 
 放回那句提问里看，它们在语义层位置是这样的：
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/sooib80cYllgCibXOoFPy5Uq3YwVAmfpXZFEDFgxsoicsiaMqWchkbNOXffAGkqpzAVbaferQaT1ibwEXGibEVuE3yZeYtM826U9Mibjl3t7MV85XM/640?wx_fmt=webp&from=appmsg&watermark=1#imgIndex=4)
+![图片](attachments/腾讯DataBuddy语义层架构及工程落地-这次是真的领先阿/640_9b6ec1)
 
 接下来分别解决这两个问题
 
@@ -65,7 +65,7 @@ tags:
 
 语义建模在 DWD/DIM 明细层之上做两件事：
 
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/sooib80cYllgqxydzZ1W2qczIdaUfZeQy8RTG1qeUc23vrOibYDsZINd1LvORuY95bcv5Mpr0bv4IOicRsHZ7ODUUuXhc4NbbgtjxbUicqCLeWg/640?wx_fmt=webp&from=appmsg&watermark=1#imgIndex=5)
+![image](attachments/腾讯DataBuddy语义层架构及工程落地-这次是真的领先阿/640_d557bd)
 
 - 搭模型：以事实表为中心连接维度表，固定 JOIN 路径和可用维度，不再让 Agent 每次猜。
 - 定指标：先定原子指标，再派生衍生指标，指标挂在模型上，天然知道能按哪些维度拆、从哪张底表来。
@@ -76,11 +76,11 @@ tags:
 
 本体模型：给 AI 一幅业务架构
 
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/sooib80cYllhLdrk5OEG1p1RZv3B4hR3TwviaE8FRc54RCeGxSksrg18sXLEH1QU97k17onRXKham7TfZXrLbvzf8otK7ArlcJygCAlLCNNd8/640?wx_fmt=webp&from=appmsg&watermark=1#imgIndex=6)
+![image](attachments/腾讯DataBuddy语义层架构及工程落地-这次是真的领先阿/640_dad976)
 
 本体模型补的不是数据，而是那句从没被记录下来的业务声明。它由五个要素构成：
 
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/sooib80cYllgPKVialriawK2ZaWQlXoIzMOdHn2uY5mT5JqN2OSL32AlWF8vDWiaicpVcVLsFgC4DibFz16jaqI2IicFNGDcEzW3mEj46M0Ax6WsMM/640?wx_fmt=webp&from=appmsg&watermark=1#imgIndex=7)
+![image](attachments/腾讯DataBuddy语义层架构及工程落地-这次是真的领先阿/640_7883cd)
 
 - 对象：客户、商机、订单等业务实体；
 - 属性：对象的画像，如累计消费额、意向评分；

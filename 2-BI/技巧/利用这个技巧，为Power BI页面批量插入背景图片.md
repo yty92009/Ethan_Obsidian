@@ -33,11 +33,11 @@ PowerBI的页面背景可以插入图片，不过只能一页一页的添加，�
 
 Base64是一种基于64个可打印字符来表示二进制数据的方法，各种文件均可以转换为base64代码来表示，关于如何将图片转为base64代码，有很多在线转换工具可以使用，大家可以自行百度搜索，比如： [fly63.com/tool/base64/](https://link.zhihu.com/?target=http%3A//www.fly63.com/tool/base64/)
 
-![](https://pic3.zhimg.com/v2-315c94c34eb270744fd7b269b7209a0a_1440w.jpg)
+
 
 假如我们想以这个图片作为页面背景：
 
-![](https://pic3.zhimg.com/v2-f6b7af2553ddeea34ea9d2650ce70d5a_1440w.jpg)
+
 
 可以先将这个图片利用在线转换工具转换为base64代码，然后将base64粘贴到下面主题中的相应位置：
 
@@ -81,13 +81,16 @@ Base64是一种基于64个可打印字符来表示二进制数据的方法，各
 
 将这个主题导入到PowerBI中，效果是这样的：
 
-![动图封面](https://picx.zhimg.com/v2-adf81aed2ad8cd29ebd1b43076b1149b_b.jpg)
+（图：动图封面）
 
 这样就可以一键更改所有页面的背景，并且，新建页面，自动也是这个图片的背景，是不是相当于PPT的母版呢？
 
 当然，利用主题代码来设计依然太笨重，期待PowerBI能够真的像PPT一样，更方便无代码的更改报表的主题。
 
 ## 更多推荐：
+
+> 原文此处原配 4 张图床图片，已按图片策略转为文字（重要图片另行本地化备份）。
+
 
 喜欢别忘了点赞哦~
 
@@ -99,7 +102,7 @@ Base64是一种基于64个可打印字符来表示二进制数据的方法，各
 
 发布于 2021-05-06 19:58[Power BI](https://www.zhihu.com/topic/20049875)[Power BI 商业数据分析（书籍）](https://www.zhihu.com/topic/21687810)
 
-![HR赫莲娜京东自营旗舰店](https://pgdt.ugdtimg.com/141/20204/snscosdownload/SZ/reserved/6a8fff7000003fe40cc99ed88e6cbc1e0000008d00004eec?ck=12cd0c30a593779f0610ab9cfc41bb73&m=12cd0c30a593779f0610ab9cfc41bb73&sha256=6fa05b9e9487084a24cd446b2a45464bf52b1b856b159582bca459eab2fc3c8c&imageView2/format/webp=)
+（图：HR赫莲娜京东自营旗舰店）
 
 HR赫莲娜京东自营旗舰店
 

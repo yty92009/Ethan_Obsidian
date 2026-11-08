@@ -17,13 +17,13 @@ tags:
 
 看到以 Text 开头的，就知道是文本处理函数，比如原始数据如下，
 
-![](https://pic3.zhimg.com/v2-e622a737c37a5795b53c576b77b7dfd8_1440w.png)
+
 
 如果只想要中文名，就是把英文字母都去掉，可以用Text.Remove函数，添加自定义列，
 
 > 姓名=Text.Remove(\[客户\],{"A".."Z"})
 
-![](https://pic4.zhimg.com/v2-04aac5c19f5eb58887864b2d4562f2dd_1440w.jpg)
+
 
 **Text.Remove 的参数有两个，第一个就是文本，第二个就是要移除的字符，可以是文本或者是文本的列表，{"A".."Z"}就是生成了一个从A到Z的列表，只要是大写字母，就从客户的信息中移除。**
 
@@ -35,13 +35,13 @@ tags:
 
 > 英文名=Text.Remove(\[客户\],{"一".."龟"})
 
-![](https://picx.zhimg.com/v2-a1ea385fcd7e8bad9d50b8a635b34f9d_1440w.jpg)
+
 
 **Powerquery 的中文字符以 Unicode 连续储存，"一"的 Unicode最小，正常使用的汉字中，"龟"的 Unicode 最大，因此{"一".."龟"}就包含了所有正常使用的汉字列表，正好利用这个特性，去除了所有的中文字符。**
 
 如果有更多种类的文本数据不规则的堆放在一起，比如这样，
 
-![](https://pic2.zhimg.com/v2-09326a996aa2762041b7d2688aeb529d_1440w.jpg)
+
 
 想把联系方式提取出来，第二个参数还可以这样写，
 
@@ -49,11 +49,11 @@ tags:
 
 把中文字符和英文字符的列表都放到第二个参数中，全部移除。
 
-![](https://pic3.zhimg.com/v2-29229f9ae0f6016ba834c305b4ca7a5c_1440w.jpg)
+
 
 不过如果字符种类很多，像这样更加杂乱的，
 
-![](https://pic2.zhimg.com/v2-8977eab35eb460b47b0f2ccd59bdd4f1_1440w.jpg)
+
 
 要提取联系方式，用Text.Remove 就有点麻烦，各种奇怪的符号种类太多了，编码也不一定连续。还好有一个 Text.Select 函数专门用来提取的。
 
@@ -61,13 +61,13 @@ tags:
 
 > 联系方式=Text.Select(\[客户\],{"0".."9"})
 
-![](https://picx.zhimg.com/v2-41d51fa492b9c250bfb03fe849304589_1440w.jpg)
+
 
 直接就可以得到联系方式信息。
 
 提取各种字符的列表如下，
 
-![](https://pic3.zhimg.com/v2-3d913ac68e64a4c22abfa32525b3f03e_1440w.jpg)
+
 
 这两个函数的都很简单，需要提取或者移除字符的情况直接套用就可以了。
 
