@@ -9,3 +9,13 @@
 # 教程源码下载残留与训练数据集
 .source-download-incomplete/
 *.jsonl
+
+# 旧仓库历史备份（不入库）
+.git-old/
+
+# AI教程官方图片（509MB课程截图，可从教程来源重新获取；文字md正常入库）
+3-AI/AI Agents 教程/images/
+
+# 教程案例源码（含演示密钥URL，GitHub拦截）与插件运行时代码（可重装）
+3-AI/AI Agents 教程/案例与源码-1-Coze&Dify工作流智能体/
+.obsidian/plugins/
